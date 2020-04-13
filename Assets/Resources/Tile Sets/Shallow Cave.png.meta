@@ -1,0 +1,6080 @@
+fileFormatVersion: 2
+guid: be2608a48f603744994302aeb06c5737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8135289189185015666
+    second: Shallow Cave_0
+  - first:
+      213: -7224538681770751190
+    second: Shallow Cave_1
+  - first:
+      213: 7587241483766707833
+    second: Shallow Cave_2
+  - first:
+      213: -98263754693472191
+    second: Shallow Cave_3
+  - first:
+      213: -7401881331084339126
+    second: Shallow Cave_4
+  - first:
+      213: -3764642720791950932
+    second: Shallow Cave_5
+  - first:
+      213: -5334096775205343482
+    second: Shallow Cave_6
+  - first:
+      213: -388918958757785506
+    second: Shallow Cave_7
+  - first:
+      213: 3633113374866261671
+    second: Shallow Cave_8
+  - first:
+      213: 4828381332908035768
+    second: Shallow Cave_9
+  - first:
+      213: -1639851158910228661
+    second: Shallow Cave_10
+  - first:
+      213: 7445223040850222258
+    second: Shallow Cave_11
+  - first:
+      213: 4146440640196915823
+    second: Shallow Cave_12
+  - first:
+      213: -9062545165717413220
+    second: Shallow Cave_13
+  - first:
+      213: 30864866727869812
+    second: Shallow Cave_14
+  - first:
+      213: 2450996921404990540
+    second: Shallow Cave_15
+  - first:
+      213: 8295976682421005032
+    second: Shallow Cave_16
+  - first:
+      213: -5782088633606132454
+    second: Shallow Cave_17
+  - first:
+      213: -7589531428319660098
+    second: Shallow Cave_18
+  - first:
+      213: -2175447336357233803
+    second: Shallow Cave_19
+  - first:
+      213: -5436139503506994892
+    second: Shallow Cave_20
+  - first:
+      213: 7648591755140049295
+    second: Shallow Cave_21
+  - first:
+      213: -306256542719271983
+    second: Shallow Cave_22
+  - first:
+      213: 244734713243503503
+    second: Shallow Cave_23
+  - first:
+      213: -5063744833144387624
+    second: Shallow Cave_24
+  - first:
+      213: 7638220928703586339
+    second: Shallow Cave_25
+  - first:
+      213: -8572457382276470589
+    second: Shallow Cave_26
+  - first:
+      213: 1498383039665720085
+    second: Shallow Cave_27
+  - first:
+      213: 7963215924923460917
+    second: Shallow Cave_28
+  - first:
+      213: 6118092735564962065
+    second: Shallow Cave_29
+  - first:
+      213: -3148817559263135236
+    second: Shallow Cave_30
+  - first:
+      213: -614152627250323320
+    second: Shallow Cave_31
+  - first:
+      213: 6338776413694602497
+    second: Shallow Cave_32
+  - first:
+      213: 5116805247377570097
+    second: Shallow Cave_33
+  - first:
+      213: -198590282566199962
+    second: Shallow Cave_34
+  - first:
+      213: 4138157207102544970
+    second: Shallow Cave_35
+  - first:
+      213: -1334071406650138791
+    second: Shallow Cave_36
+  - first:
+      213: -1316088035520601286
+    second: Shallow Cave_37
+  - first:
+      213: -8715151322413156405
+    second: Shallow Cave_38
+  - first:
+      213: 3626046311376853640
+    second: Shallow Cave_39
+  - first:
+      213: -6871274961010845943
+    second: Shallow Cave_40
+  - first:
+      213: -3345174417414071318
+    second: Shallow Cave_41
+  - first:
+      213: 8312059782264575923
+    second: Shallow Cave_42
+  - first:
+      213: 8831437915249429466
+    second: Shallow Cave_43
+  - first:
+      213: 2776324068256333005
+    second: Shallow Cave_44
+  - first:
+      213: 1962016894763506690
+    second: Shallow Cave_45
+  - first:
+      213: -1795244377787187993
+    second: Shallow Cave_46
+  - first:
+      213: -8426655947299580575
+    second: Shallow Cave_47
+  - first:
+      213: -981554792629250545
+    second: Shallow Cave_48
+  - first:
+      213: 8322074559630959626
+    second: Shallow Cave_49
+  - first:
+      213: -2625413699632861489
+    second: Shallow Cave_50
+  - first:
+      213: 7997021805244245294
+    second: Shallow Cave_51
+  - first:
+      213: 5443580511309038555
+    second: Shallow Cave_52
+  - first:
+      213: -2992380227599638950
+    second: Shallow Cave_53
+  - first:
+      213: 2997231861720324234
+    second: Shallow Cave_54
+  - first:
+      213: -8086073735343348539
+    second: Shallow Cave_55
+  - first:
+      213: -17137291627785794
+    second: Shallow Cave_56
+  - first:
+      213: -5973671273862918221
+    second: Shallow Cave_57
+  - first:
+      213: -686647331807534211
+    second: Shallow Cave_58
+  - first:
+      213: 5743901610284675372
+    second: Shallow Cave_59
+  - first:
+      213: 1300849685840760886
+    second: Shallow Cave_60
+  - first:
+      213: 8444112920050267515
+    second: Shallow Cave_61
+  - first:
+      213: 8378442803740200430
+    second: Shallow Cave_62
+  - first:
+      213: 4033287153409193791
+    second: Shallow Cave_63
+  - first:
+      213: 1824533547088046925
+    second: Shallow Cave_64
+  - first:
+      213: -6468986916809361330
+    second: Shallow Cave_65
+  - first:
+      213: 3855825512911279739
+    second: Shallow Cave_66
+  - first:
+      213: 2639751690020853784
+    second: Shallow Cave_67
+  - first:
+      213: -7006421018586283068
+    second: Shallow Cave_68
+  - first:
+      213: 4071931117071763320
+    second: Shallow Cave_69
+  - first:
+      213: -8459056984180140864
+    second: Shallow Cave_70
+  - first:
+      213: -515142560683889671
+    second: Shallow Cave_71
+  - first:
+      213: -1669442118340697537
+    second: Shallow Cave_72
+  - first:
+      213: -5974844800590549752
+    second: Shallow Cave_73
+  - first:
+      213: 2966406473782310357
+    second: Shallow Cave_74
+  - first:
+      213: -1409791839734153198
+    second: Shallow Cave_75
+  - first:
+      213: -1397605109710263296
+    second: Shallow Cave_76
+  - first:
+      213: -5958560922690727727
+    second: Shallow Cave_77
+  - first:
+      213: -4669163288098446233
+    second: Shallow Cave_78
+  - first:
+      213: -8852686831578332310
+    second: Shallow Cave_79
+  - first:
+      213: 7590533808490623417
+    second: Shallow Cave_80
+  - first:
+      213: -5195261385063154064
+    second: Shallow Cave_81
+  - first:
+      213: 5125748960105773576
+    second: Shallow Cave_82
+  - first:
+      213: -4408215035432679102
+    second: Shallow Cave_83
+  - first:
+      213: 9055098242376087229
+    second: Shallow Cave_84
+  - first:
+      213: -8967014241123221544
+    second: Shallow Cave_85
+  - first:
+      213: 1909849269639368599
+    second: Shallow Cave_86
+  - first:
+      213: 1447382642615616916
+    second: Shallow Cave_87
+  - first:
+      213: 3302958801535089663
+    second: Shallow Cave_88
+  - first:
+      213: 2272066832207295210
+    second: Shallow Cave_89
+  - first:
+      213: -5253172006248569417
+    second: Shallow Cave_90
+  - first:
+      213: 6141821044652321311
+    second: Shallow Cave_91
+  - first:
+      213: -2799732681741644674
+    second: Shallow Cave_92
+  - first:
+      213: -6425414326121469298
+    second: Shallow Cave_93
+  - first:
+      213: -7343811766328074723
+    second: Shallow Cave_94
+  - first:
+      213: -5702606465017166377
+    second: Shallow Cave_95
+  - first:
+      213: 5701060075248917415
+    second: Shallow Cave_96
+  - first:
+      213: 3074063782877828614
+    second: Shallow Cave_97
+  - first:
+      213: 4388001579658848995
+    second: Shallow Cave_98
+  - first:
+      213: -9027852988885205889
+    second: Shallow Cave_99
+  - first:
+      213: 480956234403718434
+    second: Shallow Cave_100
+  - first:
+      213: 3294678771783412761
+    second: Shallow Cave_101
+  - first:
+      213: -8910394882309653355
+    second: Shallow Cave_102
+  - first:
+      213: 3408606228598852039
+    second: Shallow Cave_103
+  - first:
+      213: -2372578889394777632
+    second: Shallow Cave_104
+  - first:
+      213: 873910850555872270
+    second: Shallow Cave_105
+  - first:
+      213: 7458709981203495244
+    second: Shallow Cave_106
+  - first:
+      213: 6420858381545899541
+    second: Shallow Cave_107
+  - first:
+      213: -127363826471150886
+    second: Shallow Cave_108
+  - first:
+      213: -202419938159087429
+    second: Shallow Cave_109
+  - first:
+      213: 7704514381720339094
+    second: Shallow Cave_110
+  - first:
+      213: -2795573770017440773
+    second: Shallow Cave_111
+  - first:
+      213: -3952955237989369063
+    second: Shallow Cave_112
+  - first:
+      213: 8750435342788391096
+    second: Shallow Cave_113
+  - first:
+      213: -4649645577535221974
+    second: Shallow Cave_114
+  - first:
+      213: -8729796239062353940
+    second: Shallow Cave_115
+  - first:
+      213: 4205200315393390097
+    second: Shallow Cave_116
+  - first:
+      213: -5248308786734371764
+    second: Shallow Cave_117
+  - first:
+      213: 8399060029878030159
+    second: Shallow Cave_118
+  - first:
+      213: -4240962593672079416
+    second: Shallow Cave_119
+  - first:
+      213: 5150429794962117188
+    second: Shallow Cave_120
+  - first:
+      213: 4974672617281744567
+    second: Shallow Cave_121
+  - first:
+      213: 1511632081976340573
+    second: Shallow Cave_122
+  - first:
+      213: 6954486422455261114
+    second: Shallow Cave_123
+  - first:
+      213: -1200070077595059081
+    second: Shallow Cave_124
+  - first:
+      213: 1317115652621112483
+    second: Shallow Cave_125
+  - first:
+      213: 9104390302199439137
+    second: Shallow Cave_126
+  - first:
+      213: 5147098724525664670
+    second: Shallow Cave_127
+  - first:
+      213: -3399855754380643329
+    second: Shallow Cave_128
+  - first:
+      213: 8632953254750348365
+    second: Shallow Cave_129
+  - first:
+      213: -8291439530824294360
+    second: Shallow Cave_130
+  - first:
+      213: -7632163163907554854
+    second: Shallow Cave_131
+  - first:
+      213: -8363311917447751319
+    second: Shallow Cave_132
+  - first:
+      213: -9179868124976379946
+    second: Shallow Cave_133
+  - first:
+      213: -8614833818711010540
+    second: Shallow Cave_134
+  - first:
+      213: -7632124834506874698
+    second: Shallow Cave_135
+  - first:
+      213: 6047098595028625286
+    second: Shallow Cave_136
+  - first:
+      213: 3213387673660049608
+    second: Shallow Cave_137
+  - first:
+      213: -4965515697921347031
+    second: Shallow Cave_138
+  - first:
+      213: 6745116465705601304
+    second: Shallow Cave_139
+  - first:
+      213: -7919127491369549532
+    second: Shallow Cave_140
+  - first:
+      213: 6130154513153858105
+    second: Shallow Cave_141
+  - first:
+      213: -48435727208864572
+    second: Shallow Cave_142
+  - first:
+      213: -6293419386154973766
+    second: Shallow Cave_143
+  - first:
+      213: -5971909634442393344
+    second: Shallow Cave_144
+  - first:
+      213: -3584006982797543573
+    second: Shallow Cave_145
+  - first:
+      213: 1499519654836706127
+    second: Shallow Cave_146
+  - first:
+      213: 4681051743776970703
+    second: Shallow Cave_147
+  - first:
+      213: 2258564549494681339
+    second: Shallow Cave_148
+  - first:
+      213: 8403214579693713040
+    second: Shallow Cave_149
+  - first:
+      213: -3359831521738206921
+    second: Shallow Cave_150
+  - first:
+      213: -7337908668734627257
+    second: Shallow Cave_151
+  - first:
+      213: 3588587619525983524
+    second: Shallow Cave_152
+  - first:
+      213: -6716108994654127486
+    second: Shallow Cave_153
+  - first:
+      213: -6563980091573778810
+    second: Shallow Cave_154
+  - first:
+      213: -3868606566124390995
+    second: Shallow Cave_155
+  - first:
+      213: -125028511482382413
+    second: Shallow Cave_156
+  - first:
+      213: 710528245918925645
+    second: Shallow Cave_157
+  - first:
+      213: -1726177558304964940
+    second: Shallow Cave_158
+  - first:
+      213: 1433007866427487393
+    second: Shallow Cave_159
+  - first:
+      213: 3514334702992690089
+    second: Shallow Cave_160
+  - first:
+      213: 6883954484686293406
+    second: Shallow Cave_161
+  - first:
+      213: 2999448040594422577
+    second: Shallow Cave_162
+  - first:
+      213: 3166431879839380956
+    second: Shallow Cave_163
+  - first:
+      213: -3299493629897137364
+    second: Shallow Cave_164
+  - first:
+      213: 8115420369214794975
+    second: Shallow Cave_165
+  - first:
+      213: -3265214695362742429
+    second: Shallow Cave_166
+  - first:
+      213: 8360363257520904575
+    second: Shallow Cave_167
+  - first:
+      213: 1680103698346396390
+    second: Shallow Cave_168
+  - first:
+      213: 3890180519137933060
+    second: Shallow Cave_169
+  - first:
+      213: -1716307924094910247
+    second: Shallow Cave_170
+  - first:
+      213: -8415123832295753926
+    second: Shallow Cave_171
+  - first:
+      213: 9031042631248662798
+    second: Shallow Cave_172
+  - first:
+      213: 2733061900872609505
+    second: Shallow Cave_173
+  - first:
+      213: 8299697803255247709
+    second: Shallow Cave_174
+  - first:
+      213: -7961990659529145555
+    second: Shallow Cave_175
+  - first:
+      213: 454021665802320270
+    second: Shallow Cave_176
+  - first:
+      213: 3132191182776369707
+    second: Shallow Cave_177
+  - first:
+      213: -1152050006977845351
+    second: Shallow Cave_178
+  - first:
+      213: -6345172327813508137
+    second: Shallow Cave_179
+  - first:
+      213: 6533904187077208852
+    second: Shallow Cave_180
+  - first:
+      213: 3269889795897314000
+    second: Shallow Cave_181
+  - first:
+      213: -3893490539331894441
+    second: Shallow Cave_182
+  - first:
+      213: -7740324462041001078
+    second: Shallow Cave_183
+  - first:
+      213: 7240111482364103072
+    second: Shallow Cave_184
+  - first:
+      213: -2004872661874163841
+    second: Shallow Cave_185
+  - first:
+      213: -391603871061650663
+    second: Shallow Cave_186
+  - first:
+      213: -432236151188196265
+    second: Shallow Cave_187
+  - first:
+      213: 321574530478501077
+    second: Shallow Cave_188
+  - first:
+      213: -7576340178686342525
+    second: Shallow Cave_189
+  - first:
+      213: -5854838153254672862
+    second: Shallow Cave_190
+  - first:
+      213: 4443920135546707576
+    second: Shallow Cave_191
+  - first:
+      213: 3649645445776421280
+    second: Shallow Cave_192
+  - first:
+      213: -2895911249577883963
+    second: Shallow Cave_193
+  - first:
+      213: -7418786916781435286
+    second: Shallow Cave_194
+  - first:
+      213: 1687150584533715788
+    second: Shallow Cave_195
+  - first:
+      213: 1002600056492488233
+    second: Shallow Cave_196
+  - first:
+      213: -2279440454748550956
+    second: Shallow Cave_197
+  - first:
+      213: -8459930739036053093
+    second: Shallow Cave_198
+  - first:
+      213: 2662308279446889211
+    second: Shallow Cave_199
+  - first:
+      213: -2156149045772481394
+    second: Shallow Cave_200
+  - first:
+      213: -7757405991631847914
+    second: Shallow Cave_201
+  - first:
+      213: 6766881684387890693
+    second: Shallow Cave_202
+  - first:
+      213: 8774334601943352299
+    second: Shallow Cave_203
+  - first:
+      213: 1622659022727193177
+    second: Shallow Cave_204
+  - first:
+      213: 8474376150072145375
+    second: Shallow Cave_205
+  - first:
+      213: 1430222826509645538
+    second: Shallow Cave_206
+  - first:
+      213: -6283836924670201333
+    second: Shallow Cave_207
+  - first:
+      213: -6608822639131538652
+    second: Shallow Cave_208
+  - first:
+      213: -6760638747583195236
+    second: Shallow Cave_209
+  - first:
+      213: 1715917961349233381
+    second: Shallow Cave_210
+  - first:
+      213: -3937505350646448748
+    second: Shallow Cave_211
+  - first:
+      213: 5829018550575128991
+    second: Shallow Cave_212
+  - first:
+      213: 6685624869900813831
+    second: Shallow Cave_213
+  - first:
+      213: -866310847550927903
+    second: Shallow Cave_214
+  - first:
+      213: 8900857252565287585
+    second: Shallow Cave_215
+  - first:
+      213: 1862885926526245897
+    second: Shallow Cave_216
+  - first:
+      213: 7828941595793296125
+    second: Shallow Cave_217
+  - first:
+      213: -5494624520214919696
+    second: Shallow Cave_218
+  - first:
+      213: -5557780931258061864
+    second: Shallow Cave_219
+  - first:
+      213: -8228539671882932166
+    second: Shallow Cave_220
+  - first:
+      213: -8679650407575713938
+    second: Shallow Cave_221
+  - first:
+      213: 7539332179211863867
+    second: Shallow Cave_222
+  - first:
+      213: 5910044787173044097
+    second: Shallow Cave_223
+  - first:
+      213: -5342311599879502524
+    second: Shallow Cave_224
+  - first:
+      213: -127337075578468960
+    second: Shallow Cave_225
+  - first:
+      213: 4011609709551673227
+    second: Shallow Cave_226
+  - first:
+      213: -4225952868014429611
+    second: Shallow Cave_227
+  - first:
+      213: 5463621717329954973
+    second: Shallow Cave_228
+  - first:
+      213: -718730934547553242
+    second: Shallow Cave_229
+  - first:
+      213: -8365645066644988847
+    second: Shallow Cave_230
+  - first:
+      213: 2466100089494286023
+    second: Shallow Cave_231
+  - first:
+      213: 3935487893761516409
+    second: Shallow Cave_232
+  - first:
+      213: 8599181217645171868
+    second: Shallow Cave_233
+  - first:
+      213: -4597358644120641965
+    second: Shallow Cave_234
+  - first:
+      213: 3302842849648435636
+    second: Shallow Cave_235
+  - first:
+      213: -5678933365199607157
+    second: Shallow Cave_236
+  - first:
+      213: 4445777852376481165
+    second: Shallow Cave_237
+  - first:
+      213: 5333184792419402556
+    second: Shallow Cave_238
+  - first:
+      213: -8182762183575111499
+    second: Shallow Cave_239
+  - first:
+      213: -1024614476744772090
+    second: Shallow Cave_240
+  - first:
+      213: 7489310396023520587
+    second: Shallow Cave_241
+  - first:
+      213: -7727540321224757193
+    second: Shallow Cave_242
+  - first:
+      213: -9175065709848115068
+    second: Shallow Cave_243
+  - first:
+      213: 1083125585532114833
+    second: Shallow Cave_244
+  - first:
+      213: -3895800052835131802
+    second: Shallow Cave_245
+  - first:
+      213: 8070094253894130570
+    second: Shallow Cave_246
+  - first:
+      213: -5108632816739172825
+    second: Shallow Cave_247
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shallow Cave_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 575
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc27a3a6a56e070800000000000000
+      internalID: 8135289189185015666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 575
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b4cfe98584dbb90800000000000000
+      internalID: -7224538681770751190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 575
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976b5093eeb4b4960800000000000000
+      internalID: 7587241483766707833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140133fb2a5e2aef0800000000000000
+      internalID: -98263754693472191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a485f1f652c374990800000000000000
+      internalID: -7401881331084339126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98fe0346d41cbc0800000000000000
+      internalID: -3764642720791950932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f24548e3b79f5b0800000000000000
+      internalID: -5334096775205343482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50d3d084484a9af0800000000000000
+      internalID: -388918958757785506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6cf998d596b6230800000000000000
+      internalID: 3633113374866261671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be4c1c8d3bd10340800000000000000
+      internalID: 4828381332908035768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47a4ac2f041e39e0800000000000000
+      internalID: -1639851158910228661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc5e6fb8eeb25760800000000000000
+      internalID: 7445223040850222258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f623e212bcd1b8930800000000000000
+      internalID: 4146440640196915823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ea7cef2f5b3280800000000000000
+      internalID: -9062545165717413220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dba59ce67ad6000800000000000000
+      internalID: 30864866727869812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_15
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44abedc6b0b30220800000000000000
+      internalID: 2450996921404990540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_16
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaa0a4b6da312370800000000000000
+      internalID: 8295976682421005032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 550
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d2516c505e1cfa0800000000000000
+      internalID: -5782088633606132454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7f75380619ca690800000000000000
+      internalID: -7589531428319660098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 550
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7bd07c224fc1e0800000000000000
+      internalID: -2175447336357233803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4394ff76ce3fe84b0800000000000000
+      internalID: -5436139503506994892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89aa156da1452a60800000000000000
+      internalID: 7648591755140049295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db14190c45ffbbf0800000000000000
+      internalID: -306256542719271983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b061fcce8756300800000000000000
+      internalID: 244734713243503503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7853337e6f9b9b0800000000000000
+      internalID: -5063744833144387624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320e4533779600a60800000000000000
+      internalID: 7638220928703586339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c86c3dfd63880980800000000000000
+      internalID: -8572457382276470589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bceb09f635bc410800000000000000
+      internalID: 1498383039665720085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53debca51b6038e60800000000000000
+      internalID: 7963215924923460917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195f3e8de4d7e450800000000000000
+      internalID: 6118092735564962065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_30
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9bb9dec172d44d0800000000000000
+      internalID: -3148817559263135236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8802fde70771a77f0800000000000000
+      internalID: -614152627250323320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d24e0609bd7f750800000000000000
+      internalID: 6338776413694602497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397bc2334b820740800000000000000
+      internalID: 5116805247377570097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651ccfa0377e3df0800000000000000
+      internalID: -198590282566199962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_35
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cd1121e00bd6930800000000000000
+      internalID: 4138157207102544970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_36
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdc95bf1d6c7de0800000000000000
+      internalID: -1334071406650138791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_37
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3327a597e05cbde0800000000000000
+      internalID: -1316088035520601286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_38
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b9cf0c009d0780800000000000000
+      internalID: -8715151322413156405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_39
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a9bb898ed425230800000000000000
+      internalID: 3626046311376853640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_40
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90799ea14d354a0a0800000000000000
+      internalID: -6871274961010845943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 533
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5f42479d8391d0800000000000000
+      internalID: -3345174417414071318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 533
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d0b1355e5a5370800000000000000
+      internalID: 8312059782264575923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 533
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbcb523ef19f8a70800000000000000
+      internalID: 8831437915249429466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc39cdc70c778620800000000000000
+      internalID: 2776324068256333005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c91b778fb7a3b10800000000000000
+      internalID: 1962016894763506690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec3af000c20617e0800000000000000
+      internalID: -1795244377787187993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16596c0ff018e0b80800000000000000
+      internalID: -8426655947299580575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0650c9dd11d062f0800000000000000
+      internalID: -981554792629250545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a046e1148b2fd7370800000000000000
+      internalID: 8322074559630959626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce60f47628a09bd0800000000000000
+      internalID: -2625413699632861489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e2aa36f02bfe60800000000000000
+      internalID: 7997021805244245294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_52
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd380da32ab7b8b40800000000000000
+      internalID: 5443580511309038555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_53
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e550d890ee876d0800000000000000
+      internalID: -2992380227599638950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_54
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88925b8f7e489920800000000000000
+      internalID: 2997231861720324234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_55
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c46e3197ce78cf80800000000000000
+      internalID: -8086073735343348539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_56
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb11d1c59bd13cff0800000000000000
+      internalID: -17137291627785794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_57
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf027450a1491da0800000000000000
+      internalID: -5973671273862918221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 500
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7364a5c3e98876f0800000000000000
+      internalID: -686647331807534211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_59
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 508
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ffc1051076bf40800000000000000
+      internalID: 5743901610284675372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 500
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63097b6a5eb8d0210800000000000000
+      internalID: 1300849685840760886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f1e246f38f2570800000000000000
+      internalID: 8444112920050267515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedccdfc655364470800000000000000
+      internalID: 8378442803740200430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f918fb4d19f730800000000000000
+      internalID: 4033287153409193791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_64
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b67f2289b025910800000000000000
+      internalID: 1824533547088046925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48bdee5caa8936a0800000000000000
+      internalID: -6468986916809361330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_66
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7617fcffd4a28530800000000000000
+      internalID: 3855825512911279739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_67
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8181ee21d2842a420800000000000000
+      internalID: 2639751690020853784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_68
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c38558843134ce90800000000000000
+      internalID: -7006421018586283068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_69
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8770ce6e6c7628830800000000000000
+      internalID: 4071931117071763320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_70
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d72bad746b9a80800000000000000
+      internalID: -8459056984180140864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_71
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb60c50298d9d8f0800000000000000
+      internalID: -515142560683889671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_72
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f322a3b0d33f4d8e0800000000000000
+      internalID: -1669442118340697537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 475
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de5b85f46151da0800000000000000
+      internalID: -5974844800590549752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 483
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b631a8faca2920800000000000000
+      internalID: 2966406473782310357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c6698ac96f6ce0800000000000000
+      internalID: -1409791839734153198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_76
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce27bbe85ba9ce0800000000000000
+      internalID: -1397605109710263296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0de7e1960fe4da0800000000000000
+      internalID: -5958560922690727727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_78
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764e89e4abcc33fb0800000000000000
+      internalID: -4669163288098446233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_79
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ceffea30f42580800000000000000
+      internalID: -8852686831578332310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_80
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b13dae484ef65960800000000000000
+      internalID: 7590533808490623417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_81
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eb104cb49b6e7b0800000000000000
+      internalID: -5195261385063154064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_82
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80abee69581522740800000000000000
+      internalID: 5125748960105773576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 458
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249cf7fe7cfd2d2c0800000000000000
+      internalID: -4408215035432679102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 458
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6371f10eb2aad70800000000000000
+      internalID: 9055098242376087229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df3bf59e04ce8380800000000000000
+      internalID: -8967014241123221544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc46bbac5218a10800000000000000
+      internalID: 1909849269639368599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_87
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4958b2b48d2261410800000000000000
+      internalID: 1447382642615616916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_88
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbbf39b78776dd20800000000000000
+      internalID: 3302958801535089663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_89
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b9a7feb0088f10800000000000000
+      internalID: 2272066832207295210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_90
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5278f84ebf817b0800000000000000
+      internalID: -5253172006248569417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_91
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a258803b12c3550800000000000000
+      internalID: 6141821044652321311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_92
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cccb6a5f95529d0800000000000000
+      internalID: -2799732681741644674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_93
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 425
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ae2d4b6b754d6a0800000000000000
+      internalID: -6425414326121469298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5ea29b1a851a90800000000000000
+      internalID: -7343811766328074723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54ece32a54cd0b0800000000000000
+      internalID: -5702606465017166377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_96
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab9f54deeb3e1f40800000000000000
+      internalID: 5701060075248917415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_97
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606935339b449aa20800000000000000
+      internalID: 3074063782877828614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 408
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea2b65203055ec30800000000000000
+      internalID: 4388001579658848995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_99
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7c09c98f96b280800000000000000
+      internalID: -9027852988885205889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_100
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 408
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a420a523bca600800000000000000
+      internalID: 480956234403718434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_101
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cab2113ec09bd20800000000000000
+      internalID: 3294678771783412761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_102
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c7977501be75480800000000000000
+      internalID: -8910394882309653355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_103
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c981da2e4dcd4f20800000000000000
+      internalID: 3408606228598852039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_104
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e198001218e21fd0800000000000000
+      internalID: -2372578889394777632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_105
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e040eb4d941c02c00800000000000000
+      internalID: 873910850555872270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c497b40c539a28760800000000000000
+      internalID: 7458709981203495244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_107
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160229cda87b1950800000000000000
+      internalID: 6420858381545899541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_108
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adad3fd46438b3ef0800000000000000
+      internalID: -127363826471150886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_109
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03292832cd03df0800000000000000
+      internalID: -202419938159087429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_110
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924459820febea60800000000000000
+      internalID: 7704514381720339094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_111
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbf5beb7702439d0800000000000000
+      internalID: -2795573770017440773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_112
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bbf9a97284429c0800000000000000
+      internalID: -3952955237989369063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_113
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0fcec159acf6970800000000000000
+      internalID: 8750435342788391096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_114
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0c8b6bf3297fb0800000000000000
+      internalID: -4649645577535221974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_115
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b521b29889d680800000000000000
+      internalID: -8729796239062353940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_116
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163260286fdb5a30800000000000000
+      internalID: 4205200315393390097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_117
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce22717f24a27b0800000000000000
+      internalID: -5248308786734371764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_118
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 350
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fcf08d8947f8470800000000000000
+      internalID: 8399060029878030159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_119
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d47a9df21525c0800000000000000
+      internalID: -4240962593672079416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_120
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4421e414c900a7740800000000000000
+      internalID: 5150429794962117188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_121
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee0f27366990540800000000000000
+      internalID: 4974672617281744567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_122
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50b84d9e556af410800000000000000
+      internalID: 1511632081976340573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_123
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab719b50e8c438060800000000000000
+      internalID: 6954486422455261114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_124
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 325
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cfe576f9e785fe0800000000000000
+      internalID: -1200070077595059081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_125
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4969a25b5574210800000000000000
+      internalID: 1317115652621112483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_126
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fdb132eba495e70800000000000000
+      internalID: 9104390302199439137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_127
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99e73bf40b2e6740800000000000000
+      internalID: 5147098724525664670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_128
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f290643941d0d0800000000000000
+      internalID: -3399855754380643329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_129
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4462ffee396ec770800000000000000
+      internalID: 8632953254750348365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_130
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82026983da3eeec80800000000000000
+      internalID: -8291439530824294360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_131
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad108731a0c151690800000000000000
+      internalID: -7632163163907554854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_132
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9695cbe2f1c8feb80800000000000000
+      internalID: -8363311917447751319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_133
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d70addc39e8a9080800000000000000
+      internalID: -9179868124976379946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_134
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 300
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41355b40946f17880800000000000000
+      internalID: -8614833818711010540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_135
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 300
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e7c556ee351690800000000000000
+      internalID: -7632124834506874698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_136
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 300
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e17e122c9be350800000000000000
+      internalID: 6047098595028625286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_137
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 300
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8402e501f389c20800000000000000
+      internalID: 3213387673660049608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_138
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922b5caf7c1f61bb0800000000000000
+      internalID: -4965515697921347031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_139
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819450b30b77b9d50800000000000000
+      internalID: 6745116465705601304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_140
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42143e1018b991290800000000000000
+      internalID: -7919127491369549532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_141
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1bcefc0fa21550800000000000000
+      internalID: 6130154513153858105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_142
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4274576fbe35ff0800000000000000
+      internalID: -48435727208864572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_143
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50da9896849a8a0800000000000000
+      internalID: -6293419386154973766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_144
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090458f3d38f1da0800000000000000
+      internalID: -5971909634442393344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_145
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6735d553ac034ec0800000000000000
+      internalID: -3584006982797543573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_146
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b12486e2d5fc410800000000000000
+      internalID: 1499519654836706127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_147
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc79c0b72cf66f040800000000000000
+      internalID: 4681051743776970703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_148
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeabeacd78085f10800000000000000
+      internalID: 2258564549494681339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_149
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f60a53273e9470800000000000000
+      internalID: 8403214579693713040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_150
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73152a9380b7f51d0800000000000000
+      internalID: -3359831521738206921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_151
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74220d591f28a2a90800000000000000
+      internalID: -7337908668734627257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_152
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df5334d693dc130800000000000000
+      internalID: 3588587619525983524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_153
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ab5dce3769bc2a0800000000000000
+      internalID: -6716108994654127486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_154
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686420952ee08e4a0800000000000000
+      internalID: -6563980091573778810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_155
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5796a23d2ff4ac0800000000000000
+      internalID: -3868606566124390995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_156
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7fb423b3fc34ef0800000000000000
+      internalID: -125028511482382413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_157
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4301e4dcad4cd900800000000000000
+      internalID: 710528245918925645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be3bf908a26b08e0800000000000000
+      internalID: -1726177558304964940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_159
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a430c6ef0113e310800000000000000
+      internalID: 1433007866427487393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_160
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab05b9eacc65c030800000000000000
+      internalID: 3514334702992690089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_161
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e990fad8128b88f50800000000000000
+      internalID: 6883954484686293406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_162
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b3fd5e91e20a920800000000000000
+      internalID: 2999448040594422577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_163
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd57c4ba40d61fb20800000000000000
+      internalID: 3166431879839380956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_164
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23215b6608d532d0800000000000000
+      internalID: -3299493629897137364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_165
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc640614d3cf9070800000000000000
+      internalID: 8115420369214794975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_166
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b48fc880afa2d0800000000000000
+      internalID: -3265214695362742429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_167
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79d2cd661af50470800000000000000
+      internalID: 8360363257520904575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac1cd796de05710800000000000000
+      internalID: 1680103698346396390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_169
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4077c533292bcf530800000000000000
+      internalID: 3890180519137933060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_170
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0822359037e28e0800000000000000
+      internalID: -1716307924094910247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_171
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a377613b579773b80800000000000000
+      internalID: -8415123832295753926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_172
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e015cf2bc65b45d70800000000000000
+      internalID: 9031042631248662798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_173
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee6aa68159cde520800000000000000
+      internalID: 2733061900872609505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_174
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537e1aad237e2370800000000000000
+      internalID: 8299697803255247709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_175
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2389c9fda3518190800000000000000
+      internalID: -7961990659529145555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_176
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e897a7eac420d4600800000000000000
+      internalID: 454021665802320270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_177
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b220ff12947c77b20800000000000000
+      internalID: 3132191182776369707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_178
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 150
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997699a5f981300f0800000000000000
+      internalID: -1152050006977845351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_179
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 150
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d39902d26b61f7a0800000000000000
+      internalID: -6345172327813508137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_180
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bac237d371daa50800000000000000
+      internalID: 6533904187077208852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_181
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da422bd17bf06d20800000000000000
+      internalID: 3269889795897314000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_182
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75347caabfa87f9c0800000000000000
+      internalID: -3893490539331894441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_183
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8397c969e7d49490800000000000000
+      internalID: -7740324462041001078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_184
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a90a80980b0a7460800000000000000
+      internalID: 7240111482364103072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_185
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f3911bfe24d24e0800000000000000
+      internalID: -2004872661874163841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_186
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d3b4aa5eb09af0800000000000000
+      internalID: -391603871061650663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_187
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547855b283600af0800000000000000
+      internalID: -432236151188196265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_188
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 125
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcebf9e456767400800000000000000
+      internalID: 321574530478501077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_189
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 125
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a81e7afbe6bd690800000000000000
+      internalID: -7576340178686342525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_190
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e9d948bf6fbea0800000000000000
+      internalID: -5854838153254672862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_191
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e977181d9fbad30800000000000000
+      internalID: 4443920135546707576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_192
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a130af323526a230800000000000000
+      internalID: 3649645445776421280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_193
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64adbcf08afc7d0800000000000000
+      internalID: -2895911249577883963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_194
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a665de80b9c2b0990800000000000000
+      internalID: -7418786916781435286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_195
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b89b98486f96710800000000000000
+      internalID: 1687150584533715788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_196
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926750b7073f9ed00800000000000000
+      internalID: 1002600056492488233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_197
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8ce00cbfccd50e0800000000000000
+      internalID: -2279440454748550956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b912953c0d9489a80800000000000000
+      internalID: -8459930739036053093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_199
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 100
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2630f464b62f420800000000000000
+      internalID: 2662308279446889211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_200
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c0febddd1d312e0800000000000000
+      internalID: -2156149045772481394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_201
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61efb42e958285490800000000000000
+      internalID: -7757405991631847914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_202
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506890b1a0bc8ed50800000000000000
+      internalID: 6766881684387890693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_203
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3804105d2b4c970800000000000000
+      internalID: 8774334601943352299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_204
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ac31b8c7d48610800000000000000
+      internalID: 1622659022727193177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_205
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b71695380b9570800000000000000
+      internalID: 8474376150072145375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_206
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e633c3451c29d310800000000000000
+      internalID: 1430222826509645538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_207
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02bc863c935bc8a0800000000000000
+      internalID: -6283836924670201333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b410323deb844a0800000000000000
+      internalID: -6608822639131538652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_209
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97df83e0e26d22a0800000000000000
+      internalID: -6760638747583195236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_210
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eafee56b4a20d710800000000000000
+      internalID: 1715917961349233381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_211
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db481debb2b59c0800000000000000
+      internalID: -3937505350646448748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_212
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9161300d75d4e050800000000000000
+      internalID: 5829018550575128991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_213
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70684ffa56c18cc50800000000000000
+      internalID: 6685624869900813831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_214
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc8a2cfde3af3f0800000000000000
+      internalID: -866310847550927903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_215
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a20d9f2382368b70800000000000000
+      internalID: 8900857252565287585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_216
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cdba351ec4ad910800000000000000
+      internalID: 1862885926526245897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_217
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0a80e6ecf5ac60800000000000000
+      internalID: 7828941595793296125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_218
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f540725c1c2fb3b0800000000000000
+      internalID: -5494624520214919696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_219
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db6cec70bbced2b0800000000000000
+      internalID: -5557780931258061864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_220
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30653dd3ca5ecd80800000000000000
+      internalID: -8228539671882932166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_221
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6700e9e0ffab8780800000000000000
+      internalID: -8679650407575713938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_222
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3748910ca611a860800000000000000
+      internalID: 7539332179211863867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_223
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2912db62b40250800000000000000
+      internalID: 5910044787173044097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_224
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445cbb997eb4cd5b0800000000000000
+      internalID: -5342311599879502524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_225
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5886bba9b9b3ef0800000000000000
+      internalID: -127337075578468960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_226
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd553c6c91ca730800000000000000
+      internalID: 4011609709551673227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_227
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae470b1466a55c0800000000000000
+      internalID: -4225952868014429611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_228
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98cf80210fa2db40800000000000000
+      internalID: 5463621717329954973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_229
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6246535e50e8606f0800000000000000
+      internalID: -718730934547553242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_230
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c50ad822247eb80800000000000000
+      internalID: -8365645066644988847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_231
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceadd627f8593220800000000000000
+      internalID: 2466100089494286023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_232
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97361856369ad9630800000000000000
+      internalID: 3935487893761516409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_233
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9493fcc1cd665770800000000000000
+      internalID: 8599181217645171868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_234
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e1e18cba6e230c0800000000000000
+      internalID: -4597358644120641965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_235
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1eb32921e06dd20800000000000000
+      internalID: 3302842849648435636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_236
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ae92051306031b0800000000000000
+      internalID: -5678933365199607157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_237
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df239e66392bd30800000000000000
+      internalID: 4445777852376481165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_238
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338ca1ff47430a40800000000000000
+      internalID: 5333184792419402556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_239
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8718ee52df07e80800000000000000
+      internalID: -8182762183575111499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_240
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b7e1ef86d7c1f0800000000000000
+      internalID: -1024614476744772090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_241
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d3f9700206fe760800000000000000
+      internalID: 7489310396023520587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_242
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730f3e5250342c490800000000000000
+      internalID: -7727540321224757193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_243
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488c2a5395e9ba080800000000000000
+      internalID: -9175065709848115068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_244
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19757cc3bf8080f00800000000000000
+      internalID: 1083125585532114833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_245
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e50d62e765fe9c0800000000000000
+      internalID: -3895800052835131802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_246
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd74b77fbbeff60800000000000000
+      internalID: 8070094253894130570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shallow Cave_247
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ebb56158d7a19b0800000000000000
+      internalID: -5108632816739172825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

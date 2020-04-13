@@ -1,0 +1,6773 @@
+fileFormatVersion: 2
+guid: 9a852461503abc34fb344a356dd5ee7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8500527588469804425
+    second: Floor Stuff_0
+  - first:
+      213: -7410594095512651726
+    second: Floor Stuff_1
+  - first:
+      213: 2339186634980284088
+    second: Floor Stuff_2
+  - first:
+      213: -7359050348425930634
+    second: Floor Stuff_3
+  - first:
+      213: -6398995156341810288
+    second: Floor Stuff_4
+  - first:
+      213: 1660554636741606381
+    second: Floor Stuff_5
+  - first:
+      213: 4364191936352043393
+    second: Floor Stuff_6
+  - first:
+      213: 703605183927819138
+    second: Floor Stuff_7
+  - first:
+      213: -5668895250076316061
+    second: Floor Stuff_8
+  - first:
+      213: -7003085351797441406
+    second: Floor Stuff_9
+  - first:
+      213: 802212067554701018
+    second: Floor Stuff_10
+  - first:
+      213: -2104509630771325529
+    second: Floor Stuff_11
+  - first:
+      213: -6189012128684289013
+    second: Floor Stuff_12
+  - first:
+      213: 8478446259648049209
+    second: Floor Stuff_13
+  - first:
+      213: 2019573780582738330
+    second: Floor Stuff_14
+  - first:
+      213: -3935739973585864107
+    second: Floor Stuff_15
+  - first:
+      213: -8784653503166582424
+    second: Floor Stuff_16
+  - first:
+      213: 4177819992345244731
+    second: Floor Stuff_17
+  - first:
+      213: -5048279141666268444
+    second: Floor Stuff_18
+  - first:
+      213: -6236309520653305867
+    second: Floor Stuff_19
+  - first:
+      213: -867939884252218234
+    second: Floor Stuff_20
+  - first:
+      213: -9216314972883487516
+    second: Floor Stuff_21
+  - first:
+      213: -5800083359148502600
+    second: Floor Stuff_22
+  - first:
+      213: 2956750036857050857
+    second: Floor Stuff_23
+  - first:
+      213: 4338695658814797971
+    second: Floor Stuff_24
+  - first:
+      213: -8390328529762289647
+    second: Floor Stuff_25
+  - first:
+      213: -2431489132141418111
+    second: Floor Stuff_26
+  - first:
+      213: -4671839835725052941
+    second: Floor Stuff_27
+  - first:
+      213: 3477364750044700892
+    second: Floor Stuff_28
+  - first:
+      213: 119960815612197519
+    second: Floor Stuff_29
+  - first:
+      213: -8754460698886052027
+    second: Floor Stuff_30
+  - first:
+      213: -414609699148877952
+    second: Floor Stuff_31
+  - first:
+      213: -7604849071594612687
+    second: Floor Stuff_32
+  - first:
+      213: 8784369737638030665
+    second: Floor Stuff_33
+  - first:
+      213: -7067215098641519031
+    second: Floor Stuff_34
+  - first:
+      213: -2948117815296512844
+    second: Floor Stuff_35
+  - first:
+      213: 4176065212756567646
+    second: Floor Stuff_36
+  - first:
+      213: -87648484724274706
+    second: Floor Stuff_37
+  - first:
+      213: -4509362689084140230
+    second: Floor Stuff_38
+  - first:
+      213: 24764007027993129
+    second: Floor Stuff_39
+  - first:
+      213: 6701200998216687079
+    second: Floor Stuff_40
+  - first:
+      213: -4149143710182746361
+    second: Floor Stuff_41
+  - first:
+      213: -5233937505066872708
+    second: Floor Stuff_42
+  - first:
+      213: -4688724543425356707
+    second: Floor Stuff_43
+  - first:
+      213: 3927216623651107207
+    second: Floor Stuff_44
+  - first:
+      213: -8681405451043231410
+    second: Floor Stuff_45
+  - first:
+      213: -1897793878218458454
+    second: Floor Stuff_46
+  - first:
+      213: 1660432368097604632
+    second: Floor Stuff_47
+  - first:
+      213: -5128123338844688962
+    second: Floor Stuff_48
+  - first:
+      213: 6615772440826418767
+    second: Floor Stuff_49
+  - first:
+      213: -6247023586260030844
+    second: Floor Stuff_50
+  - first:
+      213: -8127746255105519965
+    second: Floor Stuff_51
+  - first:
+      213: -3201319936314404821
+    second: Floor Stuff_52
+  - first:
+      213: 2703213041193319458
+    second: Floor Stuff_53
+  - first:
+      213: 3712662185918799653
+    second: Floor Stuff_54
+  - first:
+      213: -1444018894189807123
+    second: Floor Stuff_55
+  - first:
+      213: 6558604437188562899
+    second: Floor Stuff_56
+  - first:
+      213: -5437945602009980226
+    second: Floor Stuff_57
+  - first:
+      213: 3792359109336648479
+    second: Floor Stuff_58
+  - first:
+      213: 7194125450645486792
+    second: Floor Stuff_59
+  - first:
+      213: -1307158961027887231
+    second: Floor Stuff_60
+  - first:
+      213: 9058104279908309014
+    second: Floor Stuff_61
+  - first:
+      213: 7936646061936738919
+    second: Floor Stuff_62
+  - first:
+      213: 660662465436350216
+    second: Floor Stuff_63
+  - first:
+      213: 3168260041136255724
+    second: Floor Stuff_64
+  - first:
+      213: 2296943954984234834
+    second: Floor Stuff_65
+  - first:
+      213: -3544352314157991971
+    second: Floor Stuff_66
+  - first:
+      213: 5690522141823873219
+    second: Floor Stuff_67
+  - first:
+      213: 3468654747308038318
+    second: Floor Stuff_68
+  - first:
+      213: -3629117413982755381
+    second: Floor Stuff_69
+  - first:
+      213: 7727328358539470213
+    second: Floor Stuff_70
+  - first:
+      213: -2342265039940363902
+    second: Floor Stuff_71
+  - first:
+      213: 6419039341931067489
+    second: Floor Stuff_72
+  - first:
+      213: -1085728976086974193
+    second: Floor Stuff_73
+  - first:
+      213: 6564221764720611583
+    second: Floor Stuff_74
+  - first:
+      213: -7042626166722896593
+    second: Floor Stuff_75
+  - first:
+      213: -1743661377869530387
+    second: Floor Stuff_76
+  - first:
+      213: 1642791069504846309
+    second: Floor Stuff_77
+  - first:
+      213: 3596990298420734665
+    second: Floor Stuff_78
+  - first:
+      213: 7700339441949644309
+    second: Floor Stuff_79
+  - first:
+      213: 3456683683498257742
+    second: Floor Stuff_80
+  - first:
+      213: -9143213410288530229
+    second: Floor Stuff_81
+  - first:
+      213: 7047282105435292339
+    second: Floor Stuff_82
+  - first:
+      213: -6582016306869340242
+    second: Floor Stuff_83
+  - first:
+      213: 2681521195295794580
+    second: Floor Stuff_84
+  - first:
+      213: -7361514038390934319
+    second: Floor Stuff_85
+  - first:
+      213: 4762789743180490385
+    second: Floor Stuff_86
+  - first:
+      213: -1558155463167214344
+    second: Floor Stuff_87
+  - first:
+      213: -6811415530473365446
+    second: Floor Stuff_88
+  - first:
+      213: 1914646682854491305
+    second: Floor Stuff_89
+  - first:
+      213: -2002231904971188498
+    second: Floor Stuff_90
+  - first:
+      213: 3598415801003611564
+    second: Floor Stuff_91
+  - first:
+      213: 2296868393706169803
+    second: Floor Stuff_92
+  - first:
+      213: 2841075404159404552
+    second: Floor Stuff_93
+  - first:
+      213: -387424891520250940
+    second: Floor Stuff_94
+  - first:
+      213: -2844942001930188958
+    second: Floor Stuff_95
+  - first:
+      213: 3984491882945552318
+    second: Floor Stuff_96
+  - first:
+      213: 1999965591538492740
+    second: Floor Stuff_97
+  - first:
+      213: -2396326054754326575
+    second: Floor Stuff_98
+  - first:
+      213: -2509321985045124334
+    second: Floor Stuff_99
+  - first:
+      213: -2981911930288379452
+    second: Floor Stuff_100
+  - first:
+      213: -2816992372183303414
+    second: Floor Stuff_101
+  - first:
+      213: 3788093606431725266
+    second: Floor Stuff_102
+  - first:
+      213: 7892720261665238364
+    second: Floor Stuff_103
+  - first:
+      213: 1965252167608506093
+    second: Floor Stuff_104
+  - first:
+      213: -8191247910996177355
+    second: Floor Stuff_105
+  - first:
+      213: 1676746562468788860
+    second: Floor Stuff_106
+  - first:
+      213: 7218288331501631321
+    second: Floor Stuff_107
+  - first:
+      213: 6847771369695165178
+    second: Floor Stuff_108
+  - first:
+      213: -6848027302516471820
+    second: Floor Stuff_109
+  - first:
+      213: -3766855258681916493
+    second: Floor Stuff_110
+  - first:
+      213: 4144105749467529483
+    second: Floor Stuff_111
+  - first:
+      213: 8004528500763948425
+    second: Floor Stuff_112
+  - first:
+      213: -1603344447251299027
+    second: Floor Stuff_113
+  - first:
+      213: 8063683743771293293
+    second: Floor Stuff_114
+  - first:
+      213: 7265738187556200263
+    second: Floor Stuff_115
+  - first:
+      213: 7212607755233283476
+    second: Floor Stuff_116
+  - first:
+      213: -3523260652796405658
+    second: Floor Stuff_117
+  - first:
+      213: 6968399513331746479
+    second: Floor Stuff_118
+  - first:
+      213: 537073032824977864
+    second: Floor Stuff_119
+  - first:
+      213: -4481635729533272108
+    second: Floor Stuff_120
+  - first:
+      213: -6366980903131070634
+    second: Floor Stuff_121
+  - first:
+      213: -3817045545691119141
+    second: Floor Stuff_122
+  - first:
+      213: -1231604370269792031
+    second: Floor Stuff_123
+  - first:
+      213: 4691675430627895128
+    second: Floor Stuff_124
+  - first:
+      213: 6663650336360976829
+    second: Floor Stuff_125
+  - first:
+      213: 6678825311930392849
+    second: Floor Stuff_126
+  - first:
+      213: 6022258213295503484
+    second: Floor Stuff_127
+  - first:
+      213: 9221398287703203212
+    second: Floor Stuff_128
+  - first:
+      213: 1967210620001386285
+    second: Floor Stuff_129
+  - first:
+      213: -704429634086151596
+    second: Floor Stuff_130
+  - first:
+      213: 3238066754057748894
+    second: Floor Stuff_131
+  - first:
+      213: 7889430182705979924
+    second: Floor Stuff_132
+  - first:
+      213: 306012781838487353
+    second: Floor Stuff_133
+  - first:
+      213: -6290773737487493545
+    second: Floor Stuff_134
+  - first:
+      213: 2867190754219255472
+    second: Floor Stuff_135
+  - first:
+      213: 2866324263961575515
+    second: Floor Stuff_136
+  - first:
+      213: 5791311564058022884
+    second: Floor Stuff_137
+  - first:
+      213: 1211362937463434245
+    second: Floor Stuff_138
+  - first:
+      213: -7036038387037033785
+    second: Floor Stuff_139
+  - first:
+      213: -5367148309748338148
+    second: Floor Stuff_140
+  - first:
+      213: -3017423558546266175
+    second: Floor Stuff_141
+  - first:
+      213: -1574434669909113245
+    second: Floor Stuff_142
+  - first:
+      213: -5064318811857484379
+    second: Floor Stuff_143
+  - first:
+      213: -1767049987028947781
+    second: Floor Stuff_144
+  - first:
+      213: 8353379150351337898
+    second: Floor Stuff_145
+  - first:
+      213: -5548879936374179183
+    second: Floor Stuff_146
+  - first:
+      213: -8920226580767860638
+    second: Floor Stuff_147
+  - first:
+      213: -568710390283311579
+    second: Floor Stuff_148
+  - first:
+      213: -4464423558546954895
+    second: Floor Stuff_149
+  - first:
+      213: -4290355710879306957
+    second: Floor Stuff_150
+  - first:
+      213: 396647005609566819
+    second: Floor Stuff_151
+  - first:
+      213: 8073715685274014148
+    second: Floor Stuff_152
+  - first:
+      213: -6933643569201865767
+    second: Floor Stuff_153
+  - first:
+      213: -3394948601202065029
+    second: Floor Stuff_154
+  - first:
+      213: 5857739861230041319
+    second: Floor Stuff_155
+  - first:
+      213: 4771974228402610481
+    second: Floor Stuff_156
+  - first:
+      213: -3136034972753567778
+    second: Floor Stuff_157
+  - first:
+      213: -7639154772464363342
+    second: Floor Stuff_158
+  - first:
+      213: 1689648840831895738
+    second: Floor Stuff_159
+  - first:
+      213: -2958724922778145257
+    second: Floor Stuff_160
+  - first:
+      213: 2507186588997536593
+    second: Floor Stuff_161
+  - first:
+      213: 3830712292036534677
+    second: Floor Stuff_162
+  - first:
+      213: -1783402311295978338
+    second: Floor Stuff_163
+  - first:
+      213: -2323427258892192254
+    second: Floor Stuff_164
+  - first:
+      213: -3439022244555556399
+    second: Floor Stuff_165
+  - first:
+      213: -6165582971725276377
+    second: Floor Stuff_166
+  - first:
+      213: 2275650700541396787
+    second: Floor Stuff_167
+  - first:
+      213: 3622473972029139794
+    second: Floor Stuff_168
+  - first:
+      213: -4922443365414933839
+    second: Floor Stuff_169
+  - first:
+      213: -240512513785478504
+    second: Floor Stuff_170
+  - first:
+      213: -7163014863788521692
+    second: Floor Stuff_171
+  - first:
+      213: -2883116961385564973
+    second: Floor Stuff_172
+  - first:
+      213: -8976274232293116614
+    second: Floor Stuff_173
+  - first:
+      213: 2425890858177817971
+    second: Floor Stuff_174
+  - first:
+      213: 4745799169018547099
+    second: Floor Stuff_175
+  - first:
+      213: -1727282867579724920
+    second: Floor Stuff_176
+  - first:
+      213: -1627599054764901713
+    second: Floor Stuff_177
+  - first:
+      213: 5465294820535567972
+    second: Floor Stuff_178
+  - first:
+      213: 3166174054943387817
+    second: Floor Stuff_179
+  - first:
+      213: -5509065161236396366
+    second: Floor Stuff_180
+  - first:
+      213: -1497270763938073202
+    second: Floor Stuff_181
+  - first:
+      213: -5392159065621852155
+    second: Floor Stuff_182
+  - first:
+      213: -4507052881305593959
+    second: Floor Stuff_183
+  - first:
+      213: 6689325255813959633
+    second: Floor Stuff_184
+  - first:
+      213: -7254774348637917786
+    second: Floor Stuff_185
+  - first:
+      213: -2021494172344218651
+    second: Floor Stuff_186
+  - first:
+      213: 3957001162878381726
+    second: Floor Stuff_187
+  - first:
+      213: -4434456873221671922
+    second: Floor Stuff_188
+  - first:
+      213: -6897439959432061475
+    second: Floor Stuff_189
+  - first:
+      213: -976746626855938764
+    second: Floor Stuff_190
+  - first:
+      213: -9017503657626219031
+    second: Floor Stuff_191
+  - first:
+      213: -7929072707875276525
+    second: Floor Stuff_192
+  - first:
+      213: 4741392336190072136
+    second: Floor Stuff_193
+  - first:
+      213: 7660485227558172872
+    second: Floor Stuff_194
+  - first:
+      213: 5571126309491722115
+    second: Floor Stuff_195
+  - first:
+      213: 887218665307544071
+    second: Floor Stuff_196
+  - first:
+      213: -7596140683989546084
+    second: Floor Stuff_197
+  - first:
+      213: 7700048618752265038
+    second: Floor Stuff_198
+  - first:
+      213: 8035370805838225570
+    second: Floor Stuff_199
+  - first:
+      213: -6553389969692036561
+    second: Floor Stuff_200
+  - first:
+      213: -2677171001098882358
+    second: Floor Stuff_201
+  - first:
+      213: 4535355581465963432
+    second: Floor Stuff_202
+  - first:
+      213: 2401305379662710152
+    second: Floor Stuff_203
+  - first:
+      213: -2743609796692281140
+    second: Floor Stuff_204
+  - first:
+      213: 5121128979277096285
+    second: Floor Stuff_205
+  - first:
+      213: -2049249492836209462
+    second: Floor Stuff_206
+  - first:
+      213: 8689291878277321199
+    second: Floor Stuff_207
+  - first:
+      213: -7855799743455467776
+    second: Floor Stuff_208
+  - first:
+      213: 1787954378454658693
+    second: Floor Stuff_209
+  - first:
+      213: 9094962078781731902
+    second: Floor Stuff_210
+  - first:
+      213: -6501677251556511876
+    second: Floor Stuff_211
+  - first:
+      213: -2905961799962725973
+    second: Floor Stuff_212
+  - first:
+      213: 3524718107220139229
+    second: Floor Stuff_213
+  - first:
+      213: 4810160709978461501
+    second: Floor Stuff_214
+  - first:
+      213: -1310532831966787005
+    second: Floor Stuff_215
+  - first:
+      213: 3288317703696251741
+    second: Floor Stuff_216
+  - first:
+      213: -2706593700881350373
+    second: Floor Stuff_217
+  - first:
+      213: -4427413833694270494
+    second: Floor Stuff_218
+  - first:
+      213: 7879140451587666302
+    second: Floor Stuff_219
+  - first:
+      213: 7251124359048231305
+    second: Floor Stuff_220
+  - first:
+      213: -8310316919898160393
+    second: Floor Stuff_221
+  - first:
+      213: -7618791717321779146
+    second: Floor Stuff_222
+  - first:
+      213: 5879375640123616679
+    second: Floor Stuff_223
+  - first:
+      213: -4870452405864253766
+    second: Floor Stuff_224
+  - first:
+      213: -6789444932569760568
+    second: Floor Stuff_225
+  - first:
+      213: -8527815229254138226
+    second: Floor Stuff_226
+  - first:
+      213: 5001173774295155490
+    second: Floor Stuff_227
+  - first:
+      213: -6071782684194207852
+    second: Floor Stuff_228
+  - first:
+      213: -7722095387015369818
+    second: Floor Stuff_229
+  - first:
+      213: 3448151178691156401
+    second: Floor Stuff_230
+  - first:
+      213: 4273726853704415398
+    second: Floor Stuff_231
+  - first:
+      213: -2984562695417079744
+    second: Floor Stuff_232
+  - first:
+      213: -7283135723595784232
+    second: Floor Stuff_233
+  - first:
+      213: -5835105206425395099
+    second: Floor Stuff_234
+  - first:
+      213: 2822382223398641906
+    second: Floor Stuff_235
+  - first:
+      213: 4143763755204536341
+    second: Floor Stuff_236
+  - first:
+      213: -4807466045417013523
+    second: Floor Stuff_237
+  - first:
+      213: -7362114044546179508
+    second: Floor Stuff_238
+  - first:
+      213: -3200138167096050407
+    second: Floor Stuff_239
+  - first:
+      213: -2464665205803883635
+    second: Floor Stuff_240
+  - first:
+      213: 5991952138083295852
+    second: Floor Stuff_241
+  - first:
+      213: 1023764736509747610
+    second: Floor Stuff_242
+  - first:
+      213: -4234226033922456790
+    second: Floor Stuff_243
+  - first:
+      213: -1658458139567780823
+    second: Floor Stuff_244
+  - first:
+      213: 124307273294228539
+    second: Floor Stuff_245
+  - first:
+      213: -2049589535839759766
+    second: Floor Stuff_246
+  - first:
+      213: 4123523080486611402
+    second: Floor Stuff_247
+  - first:
+      213: 6932610627492429939
+    second: Floor Stuff_248
+  - first:
+      213: -1329915849791904416
+    second: Floor Stuff_249
+  - first:
+      213: 5321103412609736729
+    second: Floor Stuff_250
+  - first:
+      213: 555629288530576866
+    second: Floor Stuff_251
+  - first:
+      213: 5836003612340515141
+    second: Floor Stuff_252
+  - first:
+      213: 84606046712912125
+    second: Floor Stuff_253
+  - first:
+      213: -2243331550783436457
+    second: Floor Stuff_254
+  - first:
+      213: 1153386853560829679
+    second: Floor Stuff_255
+  - first:
+      213: 252768311859446020
+    second: Floor Stuff_256
+  - first:
+      213: 2768347172880950084
+    second: Floor Stuff_257
+  - first:
+      213: 199911024689752067
+    second: Floor Stuff_258
+  - first:
+      213: -4761591437240875997
+    second: Floor Stuff_259
+  - first:
+      213: -3075017681309609021
+    second: Floor Stuff_260
+  - first:
+      213: -5933185643397258811
+    second: Floor Stuff_261
+  - first:
+      213: 5694050321564604223
+    second: Floor Stuff_262
+  - first:
+      213: 3250871766957317145
+    second: Floor Stuff_263
+  - first:
+      213: -5632939468701660003
+    second: Floor Stuff_264
+  - first:
+      213: -6612440945652604155
+    second: Floor Stuff_265
+  - first:
+      213: -6570213604987114603
+    second: Floor Stuff_266
+  - first:
+      213: -1342969649797228836
+    second: Floor Stuff_267
+  - first:
+      213: 6755874216054050197
+    second: Floor Stuff_268
+  - first:
+      213: -4931570952909995
+    second: Floor Stuff_269
+  - first:
+      213: 3871328507775382970
+    second: Floor Stuff_270
+  - first:
+      213: 4652071978439953108
+    second: Floor Stuff_271
+  - first:
+      213: 8744072368097714612
+    second: Floor Stuff_272
+  - first:
+      213: 3436413425034344714
+    second: Floor Stuff_273
+  - first:
+      213: 3988444086893764374
+    second: Floor Stuff_274
+  - first:
+      213: 6210152631620875304
+    second: Floor Stuff_275
+  - first:
+      213: -1062924554767192095
+    second: Floor Stuff_276
+  - first:
+      213: -7330775126044035084
+    second: Floor Stuff_277
+  - first:
+      213: 4594437339269821666
+    second: Floor Stuff_278
+  - first:
+      213: -4939951812624240058
+    second: Floor Stuff_279
+  - first:
+      213: 5447423303763057442
+    second: Floor Stuff_280
+  - first:
+      213: -1077357999351047624
+    second: Floor Stuff_281
+  - first:
+      213: -925305240078898219
+    second: Floor Stuff_282
+  - first:
+      213: -2638506458180701008
+    second: Floor Stuff_283
+  - first:
+      213: -3942126999082179671
+    second: Floor Stuff_284
+  - first:
+      213: 9115858829945693873
+    second: Floor Stuff_285
+  - first:
+      213: 3451503844615971930
+    second: Floor Stuff_286
+  - first:
+      213: 4757214878870409385
+    second: Floor Stuff_287
+  - first:
+      213: -4637149379423124485
+    second: Floor Stuff_288
+  - first:
+      213: -2902490563299815311
+    second: Floor Stuff_289
+  - first:
+      213: 7272348314127521753
+    second: Floor Stuff_290
+  - first:
+      213: 6508942495415951000
+    second: Floor Stuff_291
+  - first:
+      213: 4925553814363060830
+    second: Floor Stuff_292
+  - first:
+      213: 6006027734345021296
+    second: Floor Stuff_293
+  - first:
+      213: -1981277110218735191
+    second: Floor Stuff_294
+  - first:
+      213: 1255216260097839224
+    second: Floor Stuff_295
+  - first:
+      213: 4382433528159254675
+    second: Floor Stuff_296
+  - first:
+      213: -8654501477637082617
+    second: Floor Stuff_297
+  - first:
+      213: -6311902143995073869
+    second: Floor Stuff_298
+  - first:
+      213: 2776859028408823618
+    second: Floor Stuff_299
+  - first:
+      213: -5895697180565740094
+    second: Floor Stuff_300
+  - first:
+      213: -8581869810073083073
+    second: Floor Stuff_301
+  - first:
+      213: 6112369300417395565
+    second: Floor Stuff_302
+  - first:
+      213: 1221132523036265298
+    second: Floor Stuff_303
+  - first:
+      213: -1801397415705913346
+    second: Floor Stuff_304
+  - first:
+      213: -8724342769229123300
+    second: Floor Stuff_305
+  - first:
+      213: -2526808791788198370
+    second: Floor Stuff_306
+  - first:
+      213: -5362404390118741300
+    second: Floor Stuff_307
+  - first:
+      213: -1451557535325252008
+    second: Floor Stuff_308
+  - first:
+      213: 6601483642110042411
+    second: Floor Stuff_309
+  - first:
+      213: 8675106932523793038
+    second: Floor Stuff_310
+  - first:
+      213: -3404754549308600600
+    second: Floor Stuff_311
+  - first:
+      213: 538550810395367564
+    second: Floor Stuff_312
+  - first:
+      213: 102122787144404433
+    second: Floor Stuff_313
+  - first:
+      213: 8914414621618772037
+    second: Floor Stuff_314
+  - first:
+      213: 8694585025745152827
+    second: Floor Stuff_315
+  - first:
+      213: 5066189924152066559
+    second: Floor Stuff_316
+  - first:
+      213: -4249772465655623607
+    second: Floor Stuff_317
+  - first:
+      213: -1047455357357946122
+    second: Floor Stuff_318
+  - first:
+      213: -1592712761763654460
+    second: Floor Stuff_319
+  - first:
+      213: 395262625959943014
+    second: Floor Stuff_320
+  - first:
+      213: -2135395153590537347
+    second: Floor Stuff_321
+  - first:
+      213: -8576718637536355099
+    second: Floor Stuff_322
+  - first:
+      213: 1601615860843479179
+    second: Floor Stuff_323
+  - first:
+      213: 1558995208274037719
+    second: Floor Stuff_324
+  - first:
+      213: 365567315511612097
+    second: Floor Stuff_325
+  - first:
+      213: -6040644810289321646
+    second: Floor Stuff_326
+  - first:
+      213: -7901774042861489393
+    second: Floor Stuff_327
+  - first:
+      213: -495789818371586015
+    second: Floor Stuff_328
+  - first:
+      213: 927217966995492369
+    second: Floor Stuff_329
+  - first:
+      213: 4319142915467451422
+    second: Floor Stuff_330
+  - first:
+      213: -8238603780654179478
+    second: Floor Stuff_331
+  - first:
+      213: 6637945839125872032
+    second: Floor Stuff_332
+  - first:
+      213: 1314872437482029932
+    second: Floor Stuff_333
+  - first:
+      213: -8225418272622414498
+    second: Floor Stuff_334
+  - first:
+      213: 4470736324238626009
+    second: Floor Stuff_335
+  - first:
+      213: 3602983557881582577
+    second: Floor Stuff_336
+  - first:
+      213: -9171222480186109810
+    second: Floor Stuff_337
+  - first:
+      213: -4247011429608625886
+    second: Floor Stuff_338
+  - first:
+      213: 4273530061429128225
+    second: Floor Stuff_339
+  - first:
+      213: -1080989369063160608
+    second: Floor Stuff_340
+  - first:
+      213: 4648617130536196846
+    second: Floor Stuff_341
+  - first:
+      213: -3863068437312464391
+    second: Floor Stuff_342
+  - first:
+      213: 7908435172942663100
+    second: Floor Stuff_343
+  - first:
+      213: -6159091184526936590
+    second: Floor Stuff_344
+  - first:
+      213: -8827911795591220124
+    second: Floor Stuff_345
+  - first:
+      213: 3159276226039287943
+    second: Floor Stuff_346
+  - first:
+      213: 2893838794529041427
+    second: Floor Stuff_347
+  - first:
+      213: -7067487365522658627
+    second: Floor Stuff_348
+  - first:
+      213: -565103288713682887
+    second: Floor Stuff_349
+  - first:
+      213: -434175882010541005
+    second: Floor Stuff_350
+  - first:
+      213: 7605181326168551469
+    second: Floor Stuff_351
+  - first:
+      213: -2920698034021442799
+    second: Floor Stuff_352
+  - first:
+      213: -1346006995882159801
+    second: Floor Stuff_353
+  - first:
+      213: -2578918955387360519
+    second: Floor Stuff_354
+  - first:
+      213: 5401151286260663908
+    second: Floor Stuff_355
+  - first:
+      213: 1347956080687748041
+    second: Floor Stuff_356
+  - first:
+      213: 5822904513821814063
+    second: Floor Stuff_357
+  - first:
+      213: -2231929097224700994
+    second: Floor Stuff_358
+  - first:
+      213: 3873176476498149301
+    second: Floor Stuff_359
+  - first:
+      213: 6850345817111535406
+    second: Floor Stuff_360
+  - first:
+      213: 7436712457839451171
+    second: Floor Stuff_361
+  - first:
+      213: 8056543556187268292
+    second: Floor Stuff_362
+  - first:
+      213: -7695529213042663103
+    second: Floor Stuff_363
+  - first:
+      213: 6440779718790924497
+    second: Floor Stuff_364
+  - first:
+      213: 165478604136111657
+    second: Floor Stuff_365
+  - first:
+      213: -771333435338603035
+    second: Floor Stuff_366
+  - first:
+      213: 2159575774834272389
+    second: Floor Stuff_367
+  - first:
+      213: 1980398597143846569
+    second: Floor Stuff_368
+  - first:
+      213: 4059894628302232392
+    second: Floor Stuff_369
+  - first:
+      213: 8313020007832929685
+    second: Floor Stuff_370
+  - first:
+      213: 7535691713285007038
+    second: Floor Stuff_371
+  - first:
+      213: 8106017854698010593
+    second: Floor Stuff_372
+  - first:
+      213: -9123134715757885016
+    second: Floor Stuff_373
+  - first:
+      213: -365980644867787148
+    second: Floor Stuff_374
+  - first:
+      213: -6062932429338940709
+    second: Floor Stuff_375
+  - first:
+      213: -2786372209479096239
+    second: Floor Stuff_376
+  - first:
+      213: 8791574208794664120
+    second: Floor Stuff_377
+  - first:
+      213: -7372503234477528525
+    second: Floor Stuff_378
+  - first:
+      213: -3095670441902486180
+    second: Floor Stuff_379
+  - first:
+      213: 1077130659512841314
+    second: Floor Stuff_380
+  - first:
+      213: -5824782372537251237
+    second: Floor Stuff_381
+  - first:
+      213: -3727108429772258147
+    second: Floor Stuff_382
+  - first:
+      213: 2432943228044640677
+    second: Floor Stuff_383
+  - first:
+      213: -8397521362904431181
+    second: Floor Stuff_384
+  - first:
+      213: 4074076373291501917
+    second: Floor Stuff_385
+  - first:
+      213: 1692591657078991156
+    second: Floor Stuff_386
+  - first:
+      213: 6670655893638234997
+    second: Floor Stuff_387
+  - first:
+      213: 6665571409970467254
+    second: Floor Stuff_388
+  - first:
+      213: -3854940825500342497
+    second: Floor Stuff_389
+  - first:
+      213: 6555565971187165468
+    second: Floor Stuff_390
+  - first:
+      213: 205326817939866364
+    second: Floor Stuff_391
+  - first:
+      213: -8983192510051858034
+    second: Floor Stuff_392
+  - first:
+      213: 6422324028953253412
+    second: Floor Stuff_393
+  - first:
+      213: -2321412074958570571
+    second: Floor Stuff_394
+  - first:
+      213: 4046806773021155245
+    second: Floor Stuff_395
+  - first:
+      213: 6376823171103332050
+    second: Floor Stuff_396
+  - first:
+      213: 1796914309824038664
+    second: Floor Stuff_397
+  - first:
+      213: -8036617127863354433
+    second: Floor Stuff_398
+  - first:
+      213: -2129297303550277947
+    second: Floor Stuff_399
+  - first:
+      213: -2912015782311389774
+    second: Floor Stuff_400
+  - first:
+      213: -3861223673911207519
+    second: Floor Stuff_401
+  - first:
+      213: 2108008795577028137
+    second: Floor Stuff_402
+  - first:
+      213: -390166657265497597
+    second: Floor Stuff_403
+  - first:
+      213: -6250022143636321049
+    second: Floor Stuff_404
+  - first:
+      213: 7654717371590058042
+    second: Floor Stuff_405
+  - first:
+      213: -2248615288342133053
+    second: Floor Stuff_406
+  - first:
+      213: -5295374313025943063
+    second: Floor Stuff_407
+  - first:
+      213: 4517584526652157016
+    second: Floor Stuff_408
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor Stuff_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 548
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d2b9b1cb958e970800000000000000
+      internalID: 8784369737638030665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 549
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee13ebf453ced90800000000000000
+      internalID: -7067215098641519031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 549
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc204f777e2617d0800000000000000
+      internalID: -2948117815296512844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 546
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a83d6f2d54f930800000000000000
+      internalID: 4176065212756567646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 546
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee988e2ea2c98cef0800000000000000
+      internalID: -87648484724274706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 546
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a355db1a6868b61c0800000000000000
+      internalID: -4509362689084140230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 546
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a6e12bbbaf75000800000000000000
+      internalID: 24764007027993129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 546
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edd23badc27ffc50800000000000000
+      internalID: 6701200998216687079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 547
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d28857c74b66c0800000000000000
+      internalID: -4149143710182746361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 547
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7015e9d1915d57b0800000000000000
+      internalID: -5233937505066872708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 549
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd973aedd4eeeb0800000000000000
+      internalID: -4688724543425356707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 549
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781bbb046b6408630800000000000000
+      internalID: 3927216623651107207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 503
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ad630db3758780800000000000000
+      internalID: -8681405451043231410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_46
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 503
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab0efc58ea9a5e0800000000000000
+      internalID: -1897793878218458454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 503
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b402017a0b0710800000000000000
+      internalID: 1660432368097604632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 503
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda5c74efe35d8b0800000000000000
+      internalID: -5128123338844688962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 509
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fe0d97b5260ef10800000000000000
+      internalID: 2296943954984234834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 509
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd777cb595eefcec0800000000000000
+      internalID: -3544352314157991971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_67
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 509
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c038e10dbbc8fe40800000000000000
+      internalID: 5690522141823873219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 509
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea894cd6d13232030800000000000000
+      internalID: 3468654747308038318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 509
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5af5b90f8c2adc0800000000000000
+      internalID: -3629117413982755381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 508
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852c81733cfc3b60800000000000000
+      internalID: 7727328358539470213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_71
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 508
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289d9842b5a9e7fd0800000000000000
+      internalID: -2342265039940363902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_72
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 509
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168fe0f9542051950800000000000000
+      internalID: 6419039341931067489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_73
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 510
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ccf9af37bee0f0800000000000000
+      internalID: -1085728976086974193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 510
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff05f019aecc81b50800000000000000
+      internalID: 6564221764720611583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 510
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5c9690d0934e90800000000000000
+      internalID: -7042626166722896593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_76
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 510
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deab48317354dc7e0800000000000000
+      internalID: -1743661377869530387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_77
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 510
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9350a16cd5cc610800000000000000
+      internalID: 1642791069504846309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_78
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 510
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cae4e56e931be130800000000000000
+      internalID: 3596990298420734665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 493
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516965f9ce91dda60800000000000000
+      internalID: 7700339441949644309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_80
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 493
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d6dcfee7b98ff20800000000000000
+      internalID: 3456683683498257742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 493
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0a2e98d7cc1180800000000000000
+      internalID: -9143213410288530229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_82
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 495
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2007e9cb9fcc160800000000000000
+      internalID: 7047282105435292339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 495
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7793bba0bf7a4a0800000000000000
+      internalID: -6582016306869340242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_84
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 481
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495694fd15da63520800000000000000
+      internalID: 2681521195295794580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 475
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a40ce98301329a10800000000000000
+      internalID: 1914646682854491305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_90
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 475
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61d32d0b4a634e0800000000000000
+      internalID: -2002231904971188498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_94
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 474
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8ac32d179f9af0800000000000000
+      internalID: -387424891520250940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_102
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 473
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d69a4b9013029430800000000000000
+      internalID: 3788093606431725266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_103
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 468
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da514b243988d60800000000000000
+      internalID: 7892720261665238364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_104
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 473
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de61f502f6af54b10800000000000000
+      internalID: 1965252167608506093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_105
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 468
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e89ed8c67d25e80800000000000000
+      internalID: -8191247910996177355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_106
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 468
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a3f426d10054710800000000000000
+      internalID: 1676746562468788860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_107
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957708d4ef28c2460800000000000000
+      internalID: 7218288331501631321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_108
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa35c997cb280f50800000000000000
+      internalID: 6847771369695165178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_109
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f74455637be6f0a0800000000000000
+      internalID: -6848027302516471820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_110
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c3f1991179bbc0800000000000000
+      internalID: -3766855258681916493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_111
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b018aa40932d28930800000000000000
+      internalID: 4144105749467529483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_112
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985768af24cc51f60800000000000000
+      internalID: 8004528500763948425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25cdf858b6cfb9e0800000000000000
+      internalID: -1603344447251299027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_114
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66749844a5f7ef60800000000000000
+      internalID: 8063683743771293293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_115
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f1744d26615d460800000000000000
+      internalID: 7265738187556200263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_116
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 457
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d48e21a84581460800000000000000
+      internalID: 7212607755233283476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_117
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 454
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66895f27a1dda1fc0800000000000000
+      internalID: -3523260652796405658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_118
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 454
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6c42def6ab4b060800000000000000
+      internalID: 6968399513331746479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_119
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 454
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c979fbe311147700800000000000000
+      internalID: 537073032824977864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_120
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df78787c080ec1c0800000000000000
+      internalID: -4481635729533272108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 444
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f3d213a90f3a7a0800000000000000
+      internalID: -6366980903131070634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_122
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 444
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1089dbc41270bc0800000000000000
+      internalID: -3817045545691119141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_123
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 444
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8104eb95678eee0800000000000000
+      internalID: -1231604370269792031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_124
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 444
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857e00452fd2c1140800000000000000
+      internalID: 4691675430627895128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_125
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 444
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db15536ecaa0a7c50800000000000000
+      internalID: 6663650336360976829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_126
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 444
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111af7a3c34ffac50800000000000000
+      internalID: 6678825311930392849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_127
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 445
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78382d00fb539350800000000000000
+      internalID: 6022258213295503484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_128
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 445
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dd1f6b2ecf8ff70800000000000000
+      internalID: 9221398287703203212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_129
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 435
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ffe8bd2afec4b10800000000000000
+      internalID: 1967210620001386285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_130
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 435
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a5903eafc5936f0800000000000000
+      internalID: -704429634086151596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_131
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 435
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914d9a8e8cefec20800000000000000
+      internalID: 3238066754057748894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_132
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 432
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4126f6083f2ec7d60800000000000000
+      internalID: 7889430182705979924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_133
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 432
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f4636f00d2f3400800000000000000
+      internalID: 306012781838487353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_134
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75693be9d9ea2b8a0800000000000000
+      internalID: -6290773737487493545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_151
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362a49e995c218500800000000000000
+      internalID: 396647005609566819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_152
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d14ea3a99b0070800000000000000
+      internalID: 8073715685274014148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_153
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1d8ae8efb6cf90800000000000000
+      internalID: -6933643569201865767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_154
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 399
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7144a20c38b2e0d0800000000000000
+      internalID: -3394948601202065029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_155
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 400
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8334f3e5fda4150800000000000000
+      internalID: 5857739861230041319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_156
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 401
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a1491745793240800000000000000
+      internalID: 4771974228402610481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_157
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 400
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf52d5cec09a74d0800000000000000
+      internalID: -3136034972753567778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_158
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 401
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8180b55354cf590800000000000000
+      internalID: -7639154772464363342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_159
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 399
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab88fe82ba6d27710800000000000000
+      internalID: 1689648840831895738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_160
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea6b5db5f70f6d0800000000000000
+      internalID: -2958724922778145257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_161
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b42d64be05bc220800000000000000
+      internalID: 2507186588997536593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_162
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 393
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5916f8b988c692530800000000000000
+      internalID: 3830712292036534677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_163
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 401
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94b797fb051047e0800000000000000
+      internalID: -1783402311295978338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_164
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 399
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067544d73781cfd0800000000000000
+      internalID: -2323427258892192254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_165
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 402
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d979924d732640d0800000000000000
+      internalID: -3439022244555556399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_166
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 401
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b1e1134f27f6aa0800000000000000
+      internalID: -6165582971725276377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_174
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 373
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6e81f1ee7aa120800000000000000
+      internalID: 2425890858177817971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 373
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf9f7784b9969e0800000000000000
+      internalID: -1627599054764901713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_180
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 372
+        width: 176
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b646049c6edb83b0800000000000000
+      internalID: -5509065161236396366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_181
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85b4ee4c20a83be0800000000000000
+      internalID: -1497270763938073202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_182
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500153116e33b25b0800000000000000
+      internalID: -5392159065621852155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_183
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99711e9a84bb371c0800000000000000
+      internalID: -4507052881305593959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_184
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df07dbe0e145dc50800000000000000
+      internalID: 6689325255813959633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_185
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad22d7da2dd15b90800000000000000
+      internalID: -7254774348637917786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_186
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb86e5b2c532f3e0800000000000000
+      internalID: -2021494172344218651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_187
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6c21b7971ae630800000000000000
+      internalID: 3957001162878381726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_188
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0435d3f7f4a572c0800000000000000
+      internalID: -4434456873221671922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_189
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd977ea6ee5740a0800000000000000
+      internalID: -6897439959432061475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_190
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d0be2e16e172f0800000000000000
+      internalID: -976746626855938764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_191
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed476e33346bd280800000000000000
+      internalID: -9017503657626219031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_192
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 356
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31979d8d16646f190800000000000000
+      internalID: -7929072707875276525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_193
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 351
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8456e53753fccc140800000000000000
+      internalID: 4741392336190072136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_194
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 351
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87bbb3ab28f4a60800000000000000
+      internalID: 7660485227558172872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_195
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 333
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38746148cdd905d40800000000000000
+      internalID: 5571126309491722115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_196
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 333
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a90c7eca8005c00800000000000000
+      internalID: 887218665307544071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_197
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b09e24b46159690800000000000000
+      internalID: -7596140683989546084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_198
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b47f11c611cda60800000000000000
+      internalID: 7700048618752265038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_199
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02888bc2f538f60800000000000000
+      internalID: 8035370805838225570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_200
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22f5ed3b8ead05a0800000000000000
+      internalID: -6553389969692036561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_201
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac23684a827c8dad0800000000000000
+      internalID: -2677171001098882358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_202
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab2d5b3fd1d0fe30800000000000000
+      internalID: 4535355581465963432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_203
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c7082586235120800000000000000
+      internalID: 2401305379662710152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_204
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ffd91d6dbce9d0800000000000000
+      internalID: -2743609796692281140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_205
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5525ca7ca7e11740800000000000000
+      internalID: 5121128979277096285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_206
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2953917a9f83e0800000000000000
+      internalID: -2049249492836209462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_207
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 341
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1186aece0969870800000000000000
+      internalID: 8689291878277321199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_208
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 324
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0076bb051c79af290800000000000000
+      internalID: -7855799743455467776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_209
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 324
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ee462c80710d810800000000000000
+      internalID: 1787954378454658693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_210
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 324
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34fe6fc2dbc73e70800000000000000
+      internalID: 9094962078781731902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_211
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 324
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f6cb0bcf665c5a0800000000000000
+      internalID: -6501677251556511876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_212
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 324
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1fd5ea323fba7d0800000000000000
+      internalID: -2905961799962725973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 324
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5e3a91705ae030800000000000000
+      internalID: 3524718107220139229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_214
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 324
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359ece2eaf11c240800000000000000
+      internalID: 4810160709978461501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_215
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 324
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0224355d00dde0800000000000000
+      internalID: -1310532831966787005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_231
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 278
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a879162ee35f4b30800000000000000
+      internalID: 4273726853704415398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_232
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 278
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04858c99a04b496d0800000000000000
+      internalID: -2984562695417079744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_233
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 278
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9d18a5aa1dea90800000000000000
+      internalID: -7283135723595784232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_234
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606bfffaba850fa0800000000000000
+      internalID: -5835105206425395099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_235
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0ad06bdad1b2720800000000000000
+      internalID: 2822382223398641906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_236
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518ea164e2b918930800000000000000
+      internalID: 4143763755204536341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_237
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeba2d4a13784db0800000000000000
+      internalID: -4807466045417013523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_238
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e19ea584484d990800000000000000
+      internalID: -7362114044546179508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_239
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df116ca43d693d0800000000000000
+      internalID: -3200138167096050407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_240
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d836bcdbd00cbcdd0800000000000000
+      internalID: -2464665205803883635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_241
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e89d09b0b72350800000000000000
+      internalID: 5991952138083295852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_242
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a912c3d8a94253e00800000000000000
+      internalID: 1023764736509747610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_243
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2347552bd10d35c0800000000000000
+      internalID: -4234226033922456790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_244
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c0534eb19fbf8e0800000000000000
+      internalID: -1658458139567780823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_245
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c23b37ec0a9b100800000000000000
+      internalID: 124307273294228539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_246
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d9e42d256e83e0800000000000000
+      internalID: -2049589535839759766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_247
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac96783f462b93930800000000000000
+      internalID: 4123523080486611402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_248
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370c8c992a4953060800000000000000
+      internalID: 6932610627492429939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_249
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065edffa4903b8de0800000000000000
+      internalID: -1329915849791904416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_250
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e8b18c5b58d940800000000000000
+      internalID: 5321103412609736729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_251
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 261
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50ba1e4edf5b700800000000000000
+      internalID: 555629288530576866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_252
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 261
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541f37d6d56adf050800000000000000
+      internalID: 5836003612340515141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_253
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 261
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85c2050c49c2100800000000000000
+      internalID: 84606046712912125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_254
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759802a17d51ed0e0800000000000000
+      internalID: -2243331550783436457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_255
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 261
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6491f7b37a10010800000000000000
+      internalID: 1153386853560829679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_256
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 261
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018bdeb073028300800000000000000
+      internalID: 252768311859446020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_257
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 261
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443a68e16152b6620800000000000000
+      internalID: 2768347172880950084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308215d840a36c200800000000000000
+      internalID: 199911024689752067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_259
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 261
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32447b9d0dd6bedb0800000000000000
+      internalID: -4761591437240875997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_260
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 261
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3de7306b75355d0800000000000000
+      internalID: -3075017681309609021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_261
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 261
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ebdab71719ada0800000000000000
+      internalID: -5933185643397258811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_262
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 261
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f379e0e5994550f40800000000000000
+      internalID: 5694050321564604223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_263
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c56dfe5aa6d1d20800000000000000
+      internalID: 3250871766957317145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_264
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c82c6d567c3d1b0800000000000000
+      internalID: -5632939468701660003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_265
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 261
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503e0208ef3eb34a0800000000000000
+      internalID: -6612440945652604155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_266
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bed486989e1d4a0800000000000000
+      internalID: -6570213604987114603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_267
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd694b70830dc5de0800000000000000
+      internalID: -1342969649797228836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_268
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 261
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d4f1b2ecfa1cd50800000000000000
+      internalID: 6755874216054050197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_269
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 261
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bca2923ca7eeff0800000000000000
+      internalID: -4931570952909995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_270
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 261
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57bc244c8b9b530800000000000000
+      internalID: 3871328507775382970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_271
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 260
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da467011da7f8040800000000000000
+      internalID: 4652071978439953108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_272
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 260
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e5ce9d7f295970800000000000000
+      internalID: 8744072368097714612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_273
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a093e8c9dc790bf20800000000000000
+      internalID: 3436413425034344714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_274
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 244
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5fcde3ccc95730800000000000000
+      internalID: 3988444086893764374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_275
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 244
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82438b86ae4ee2650800000000000000
+      internalID: 6210152631620875304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_276
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efaf02cfbbbf31f0800000000000000
+      internalID: -1062924554767192095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_277
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 244
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f730ebecdad34a90800000000000000
+      internalID: -7330775126044035084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_278
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 244
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f7fdea68b2cf30800000000000000
+      internalID: 4594437339269821666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_279
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423cf8dff3c17bb0800000000000000
+      internalID: -4939951812624240058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_280
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 244
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b5bf112a2299b40800000000000000
+      internalID: 5447423303763057442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_281
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 244
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a51c09b947c01f0800000000000000
+      internalID: -1077357999351047624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_282
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 244
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db2a4069c7a823f0800000000000000
+      internalID: -925305240078898219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_283
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 244
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4b09e0b54226bd0800000000000000
+      internalID: -2638506458180701008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_284
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ea307160ca49c0800000000000000
+      internalID: -3942126999082179671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_285
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 244
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66585de49028e70800000000000000
+      internalID: 9115858829945693873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_286
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 244
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ea37b57436ef20800000000000000
+      internalID: 3451503844615971930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_287
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 244
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0164f3ab5050240800000000000000
+      internalID: 4757214878870409385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_288
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3cf05453985afb0800000000000000
+      internalID: -4637149379423124485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_289
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1705792f53848b7d0800000000000000
+      internalID: -2902490563299815311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_290
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d75b7ad2429ce460800000000000000
+      internalID: 7272348314127521753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_291
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 243
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e56b6b6b8645a50800000000000000
+      internalID: 6508942495415951000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_292
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3e23f8151b5440800000000000000
+      internalID: 4925553814363060830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_293
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 243
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07777c03762b95350800000000000000
+      internalID: 6006027734345021296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_294
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 243
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cccb27f61184e0800000000000000
+      internalID: -1981277110218735191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_295
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701d63c98c6b6110800000000000000
+      internalID: 1255216260097839224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_296
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 243
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b1b1231881dc30800000000000000
+      internalID: 4382433528159254675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_297
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702395572c805e780800000000000000
+      internalID: -8654501477637082617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_298
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa522217e9768a0800000000000000
+      internalID: -6311902143995073869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_299
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fe4abe292698620800000000000000
+      internalID: 2776859028408823618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_300
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c56b19a6a64e2ea0800000000000000
+      internalID: -5895697180565740094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_301
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 227
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33e1fd50e217e880800000000000000
+      internalID: -8581869810073083073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_302
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 227
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb1677e7f73d450800000000000000
+      internalID: 6112369300417395565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_303
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 227
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc0435f8552f010800000000000000
+      internalID: 1221132523036265298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_304
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 227
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7da8938962007e0800000000000000
+      internalID: -1801397415705913346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_305
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b9559978ece680800000000000000
+      internalID: -8724342769229123300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_306
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 227
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16612e9ac8feecd0800000000000000
+      internalID: -2526808791788198370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_317
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 203
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9405c507576c505c0800000000000000
+      internalID: -4249772465655623607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_328
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 203
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128c4b879c99e19f0800000000000000
+      internalID: -495789818371586015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_329
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 203
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e402014d32edc00800000000000000
+      internalID: 927217966995492369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_330
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 203
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c159a099da0fb30800000000000000
+      internalID: 4319142915467451422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_331
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 203
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bdae0f2899aad80800000000000000
+      internalID: -8238603780654179478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_332
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 203
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad31634298be1c50800000000000000
+      internalID: 6637945839125872032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_333
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 203
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638111f38d5f3210800000000000000
+      internalID: 1314872437482029932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_334
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 203
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55755349a179dd80800000000000000
+      internalID: -8225418272622414498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_335
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 203
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dccdaafffe3b0e30800000000000000
+      internalID: 4470736324238626009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_336
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3da1bd47e500230800000000000000
+      internalID: 3602983557881582577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_337
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801e68deb549b080800000000000000
+      internalID: -9171222480186109810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_338
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229672d3b959f05c0800000000000000
+      internalID: -4247011429608625886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_339
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cbf60e2f0ae4b30800000000000000
+      internalID: 4273530061429128225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_340
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4440b65ed8ff0f0800000000000000
+      internalID: -1080989369063160608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_341
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead76a96a4338040800000000000000
+      internalID: 4648617130536196846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_342
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f997f249bf936ac0800000000000000
+      internalID: -3863068437312464391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_343
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 173
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc37c93e760cd60800000000000000
+      internalID: 7908435172942663100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_344
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 185
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5380f2333868aa0800000000000000
+      internalID: -6159091184526936590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_345
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 185
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464fd438ef4fc7580800000000000000
+      internalID: -8827911795591220124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_346
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 185
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78098603df008db20800000000000000
+      internalID: 3159276226039287943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_347
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 185
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce5292d0bf82820800000000000000
+      internalID: 2893838794529041427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_348
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 185
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae57bafad3bed90800000000000000
+      internalID: -7067487365522658627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_349
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 185
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e0de8d895828f0800000000000000
+      internalID: -565103288713682887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_350
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 185
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33448bee55f79f9f0800000000000000
+      internalID: -434175882010541005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_351
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 185
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f5b64f180b8960800000000000000
+      internalID: 7605181326168551469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_352
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b58f1dc989777d0800000000000000
+      internalID: -2920698034021442799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_353
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d049c4c5025de0800000000000000
+      internalID: -1346006995882159801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_354
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa6d9fafd6d53cd0800000000000000
+      internalID: -2578918955387360519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_355
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46606b37a7eb4fa40800000000000000
+      internalID: 5401151286260663908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_356
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c39832e9e6e4b210800000000000000
+      internalID: 1347956080687748041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_357
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d2e53edcc1fc050800000000000000
+      internalID: 5822904513821814063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_358
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb3014bf489601e0800000000000000
+      internalID: -2231929097224700994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_359
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf32120c7940c530800000000000000
+      internalID: 3873176476498149301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_365
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ed579e9e5eb4200800000000000000
+      internalID: 165478604136111657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_366
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5c247c35cab45f0800000000000000
+      internalID: -771333435338603035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_367
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588298ca9ba58fd10800000000000000
+      internalID: 2159575774834272389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_368
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed070180acb7b10800000000000000
+      internalID: 1980398597143846569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_369
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b987977a4a75830800000000000000
+      internalID: 4059894628302232392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_370
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c89127a7cd5370800000000000000
+      internalID: 8313020007832929685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_371
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6253bffa7249860800000000000000
+      internalID: 7535691713285007038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_372
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7bf349a4c5e7070800000000000000
+      internalID: 8106017854698010593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_373
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 131
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9873dff4d146180800000000000000
+      internalID: -9123134715757885016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_374
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 131
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476bcf3ea86cbeaf0800000000000000
+      internalID: -365980644867787148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_375
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 131
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda6e0c04132cdba0800000000000000
+      internalID: -6062932429338940709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_376
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 131
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586af10d31d459d0800000000000000
+      internalID: -2786372209479096239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_377
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 131
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc11b3c922f10a70800000000000000
+      internalID: 8791574208794664120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_378
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a6c839e5b9fa990800000000000000
+      internalID: -7372503234477528525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_379
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dc9b87228f905d0800000000000000
+      internalID: -3095670441902486180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_380
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f1f0c0acb2fe00800000000000000
+      internalID: 1077130659512841314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_381
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 104
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ac5fe0b473a2fa0800000000000000
+      internalID: -5824782372537251237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_382
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 104
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948f0451a6a64cc0800000000000000
+      internalID: -3727108429772258147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_383
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 104
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a10b42c9fc83c120800000000000000
+      internalID: 2432943228044640677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_384
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 104
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5c35affc2067b80800000000000000
+      internalID: -8397521362904431181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_385
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 104
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d590ad940e60a8830800000000000000
+      internalID: 4074076373291501917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_386
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439abf5f42b4d7710800000000000000
+      internalID: 1692591657078991156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Stuff_408
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c27e9113fa1be30800000000000000
+      internalID: 4517584526652157016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

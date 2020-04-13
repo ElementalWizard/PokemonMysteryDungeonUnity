@@ -1,0 +1,6083 @@
+fileFormatVersion: 2
+guid: 1fbe4591a79c8af479e47297f03aa651
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8864371452180260692
+    second: Apple Woods_0
+  - first:
+      213: -2067873614605001203
+    second: Apple Woods_0
+  - first:
+      213: -8684884921268362708
+    second: Apple Woods_1
+  - first:
+      213: 1609849349751487484
+    second: Apple Woods_2
+  - first:
+      213: -1820511087309013835
+    second: Apple Woods_3
+  - first:
+      213: 527085649902736781
+    second: Apple Woods_4
+  - first:
+      213: 6858196033221881927
+    second: Apple Woods_5
+  - first:
+      213: 526021968033766637
+    second: Apple Woods_6
+  - first:
+      213: 5754541448750430455
+    second: Apple Woods_7
+  - first:
+      213: -7557332523310169968
+    second: Apple Woods_8
+  - first:
+      213: 6141587025060604968
+    second: Apple Woods_9
+  - first:
+      213: 1560081351589109011
+    second: Apple Woods_10
+  - first:
+      213: -1649780740275799375
+    second: Apple Woods_11
+  - first:
+      213: -7122394911312116260
+    second: Apple Woods_12
+  - first:
+      213: 5069409622738423610
+    second: Apple Woods_13
+  - first:
+      213: 4269301892235621976
+    second: Apple Woods_14
+  - first:
+      213: 8191962139438001974
+    second: Apple Woods_15
+  - first:
+      213: -6714382557460313828
+    second: Apple Woods_16
+  - first:
+      213: 1073018853454205501
+    second: Apple Woods_17
+  - first:
+      213: 6150950452310003169
+    second: Apple Woods_18
+  - first:
+      213: 405207716650834087
+    second: Apple Woods_19
+  - first:
+      213: 6143247691524479438
+    second: Apple Woods_20
+  - first:
+      213: 7755987409189922861
+    second: Apple Woods_21
+  - first:
+      213: 7189244583466713832
+    second: Apple Woods_22
+  - first:
+      213: -309342508600991164
+    second: Apple Woods_23
+  - first:
+      213: -4956761337646714975
+    second: Apple Woods_24
+  - first:
+      213: -5623527880054108782
+    second: Apple Woods_25
+  - first:
+      213: -1069161993126285572
+    second: Apple Woods_26
+  - first:
+      213: 2634075737293780612
+    second: Apple Woods_27
+  - first:
+      213: -6862528247063408940
+    second: Apple Woods_28
+  - first:
+      213: 1412856906544926180
+    second: Apple Woods_29
+  - first:
+      213: -2761895316363576471
+    second: Apple Woods_30
+  - first:
+      213: -5627169444502876386
+    second: Apple Woods_31
+  - first:
+      213: -6026799996286496353
+    second: Apple Woods_32
+  - first:
+      213: 2642077625712012197
+    second: Apple Woods_33
+  - first:
+      213: 3164389143092837351
+    second: Apple Woods_34
+  - first:
+      213: -5277194856984436514
+    second: Apple Woods_35
+  - first:
+      213: 8039422006240602409
+    second: Apple Woods_36
+  - first:
+      213: -7988046544333047084
+    second: Apple Woods_37
+  - first:
+      213: -3325881431937430674
+    second: Apple Woods_38
+  - first:
+      213: 4252930068641759467
+    second: Apple Woods_39
+  - first:
+      213: -8320263152111944530
+    second: Apple Woods_40
+  - first:
+      213: 6461230941718726192
+    second: Apple Woods_41
+  - first:
+      213: -1686485519284405974
+    second: Apple Woods_42
+  - first:
+      213: 3345182148355249250
+    second: Apple Woods_43
+  - first:
+      213: -3384315903606313632
+    second: Apple Woods_44
+  - first:
+      213: -954160438694739381
+    second: Apple Woods_45
+  - first:
+      213: 7643579993871708067
+    second: Apple Woods_46
+  - first:
+      213: 5455547731776882569
+    second: Apple Woods_47
+  - first:
+      213: 1205503128779268562
+    second: Apple Woods_48
+  - first:
+      213: -4398046636935579035
+    second: Apple Woods_49
+  - first:
+      213: 5645863978149129775
+    second: Apple Woods_50
+  - first:
+      213: -7086080470735093084
+    second: Apple Woods_51
+  - first:
+      213: -1593263205688008632
+    second: Apple Woods_52
+  - first:
+      213: 517921662474930933
+    second: Apple Woods_53
+  - first:
+      213: -7146338710839203506
+    second: Apple Woods_54
+  - first:
+      213: 2769302130839248973
+    second: Apple Woods_55
+  - first:
+      213: -3622266929866752554
+    second: Apple Woods_56
+  - first:
+      213: -4202752424504672979
+    second: Apple Woods_57
+  - first:
+      213: -5992544871185247669
+    second: Apple Woods_58
+  - first:
+      213: 1107014225177554441
+    second: Apple Woods_59
+  - first:
+      213: -3250689344501244056
+    second: Apple Woods_60
+  - first:
+      213: -4638047276752460554
+    second: Apple Woods_61
+  - first:
+      213: -2716767702497165426
+    second: Apple Woods_62
+  - first:
+      213: -748217305461892285
+    second: Apple Woods_63
+  - first:
+      213: -5394236835801042644
+    second: Apple Woods_64
+  - first:
+      213: 6740362809032726845
+    second: Apple Woods_65
+  - first:
+      213: 3654443486827230628
+    second: Apple Woods_66
+  - first:
+      213: 7495333912412061476
+    second: Apple Woods_67
+  - first:
+      213: -5466002031500418986
+    second: Apple Woods_68
+  - first:
+      213: -6293954653808559236
+    second: Apple Woods_69
+  - first:
+      213: 1097737183199132593
+    second: Apple Woods_70
+  - first:
+      213: 1929834896794870354
+    second: Apple Woods_71
+  - first:
+      213: 5609485767551556203
+    second: Apple Woods_72
+  - first:
+      213: 8587078445487344511
+    second: Apple Woods_73
+  - first:
+      213: 6673757451895097171
+    second: Apple Woods_74
+  - first:
+      213: -5335105058078226747
+    second: Apple Woods_75
+  - first:
+      213: -6032351648753606017
+    second: Apple Woods_76
+  - first:
+      213: 5178880168728595310
+    second: Apple Woods_77
+  - first:
+      213: 4786564828107520743
+    second: Apple Woods_78
+  - first:
+      213: -5596581354525848207
+    second: Apple Woods_79
+  - first:
+      213: -4768742712777686989
+    second: Apple Woods_80
+  - first:
+      213: 2766184396079469666
+    second: Apple Woods_81
+  - first:
+      213: 3872159496806152836
+    second: Apple Woods_82
+  - first:
+      213: -8660188440282166319
+    second: Apple Woods_83
+  - first:
+      213: -9117653532273808775
+    second: Apple Woods_84
+  - first:
+      213: 4198300507945619360
+    second: Apple Woods_85
+  - first:
+      213: -177647613159064388
+    second: Apple Woods_86
+  - first:
+      213: 9038906517328017612
+    second: Apple Woods_87
+  - first:
+      213: 4097509541520191731
+    second: Apple Woods_88
+  - first:
+      213: -3359280403993820542
+    second: Apple Woods_89
+  - first:
+      213: -9192907100063121489
+    second: Apple Woods_90
+  - first:
+      213: 7590206277184703027
+    second: Apple Woods_91
+  - first:
+      213: 9043011738971038921
+    second: Apple Woods_92
+  - first:
+      213: -6854487204948312908
+    second: Apple Woods_93
+  - first:
+      213: 3091052697990616077
+    second: Apple Woods_94
+  - first:
+      213: -2857604077432735870
+    second: Apple Woods_95
+  - first:
+      213: -6260996268509060341
+    second: Apple Woods_96
+  - first:
+      213: -6379996587150789030
+    second: Apple Woods_97
+  - first:
+      213: 2843770125675829723
+    second: Apple Woods_98
+  - first:
+      213: -1728512306705370862
+    second: Apple Woods_99
+  - first:
+      213: -7355906846857559951
+    second: Apple Woods_100
+  - first:
+      213: -5754371032960831633
+    second: Apple Woods_101
+  - first:
+      213: 7662729445451255775
+    second: Apple Woods_102
+  - first:
+      213: -4457230864225680995
+    second: Apple Woods_103
+  - first:
+      213: 7087365902703986591
+    second: Apple Woods_104
+  - first:
+      213: -3639179895834308102
+    second: Apple Woods_105
+  - first:
+      213: 9036702523051640879
+    second: Apple Woods_106
+  - first:
+      213: -1355018534037386057
+    second: Apple Woods_107
+  - first:
+      213: -3654702247841826317
+    second: Apple Woods_108
+  - first:
+      213: -3501711489002672766
+    second: Apple Woods_109
+  - first:
+      213: -8898560332124840778
+    second: Apple Woods_110
+  - first:
+      213: 8410637188232986760
+    second: Apple Woods_111
+  - first:
+      213: -3613775454340652641
+    second: Apple Woods_112
+  - first:
+      213: -5140017141721540220
+    second: Apple Woods_113
+  - first:
+      213: 30254531646319661
+    second: Apple Woods_114
+  - first:
+      213: 4464829824118803955
+    second: Apple Woods_115
+  - first:
+      213: 5454805514106106714
+    second: Apple Woods_116
+  - first:
+      213: 3895039221565025497
+    second: Apple Woods_117
+  - first:
+      213: 3806373311801708672
+    second: Apple Woods_118
+  - first:
+      213: -7158159723991483804
+    second: Apple Woods_119
+  - first:
+      213: 7208785221491016313
+    second: Apple Woods_120
+  - first:
+      213: -6643194859298348311
+    second: Apple Woods_121
+  - first:
+      213: 8124440026477687761
+    second: Apple Woods_122
+  - first:
+      213: -4572767297540627137
+    second: Apple Woods_123
+  - first:
+      213: 7659363502436385948
+    second: Apple Woods_124
+  - first:
+      213: 5403091851975407997
+    second: Apple Woods_125
+  - first:
+      213: -5711147047175840703
+    second: Apple Woods_126
+  - first:
+      213: 2478227282559951387
+    second: Apple Woods_127
+  - first:
+      213: -2306531697521556203
+    second: Apple Woods_128
+  - first:
+      213: -771471263224681567
+    second: Apple Woods_129
+  - first:
+      213: 8152360728323058181
+    second: Apple Woods_130
+  - first:
+      213: 1642725008599948205
+    second: Apple Woods_131
+  - first:
+      213: -9187841126553752044
+    second: Apple Woods_132
+  - first:
+      213: -2468571642497573017
+    second: Apple Woods_133
+  - first:
+      213: 4872482983650237786
+    second: Apple Woods_134
+  - first:
+      213: 8603434953140077409
+    second: Apple Woods_135
+  - first:
+      213: 3108640323872628941
+    second: Apple Woods_136
+  - first:
+      213: -7271912708450442481
+    second: Apple Woods_137
+  - first:
+      213: -8162988539088402579
+    second: Apple Woods_138
+  - first:
+      213: -8473328863999390824
+    second: Apple Woods_139
+  - first:
+      213: 7039452907912415731
+    second: Apple Woods_140
+  - first:
+      213: 8599414477697076585
+    second: Apple Woods_141
+  - first:
+      213: -8746628074763903619
+    second: Apple Woods_142
+  - first:
+      213: -8133933322771044086
+    second: Apple Woods_143
+  - first:
+      213: 1976250430981214212
+    second: Apple Woods_144
+  - first:
+      213: -3799632159599377349
+    second: Apple Woods_145
+  - first:
+      213: -8347650474808098419
+    second: Apple Woods_146
+  - first:
+      213: -8387644749138093171
+    second: Apple Woods_147
+  - first:
+      213: -3387524822177936941
+    second: Apple Woods_148
+  - first:
+      213: -7401551627788700745
+    second: Apple Woods_149
+  - first:
+      213: -4654218561593208743
+    second: Apple Woods_150
+  - first:
+      213: -7229393804160974014
+    second: Apple Woods_151
+  - first:
+      213: -7020772764509531579
+    second: Apple Woods_152
+  - first:
+      213: -7559696095020084507
+    second: Apple Woods_153
+  - first:
+      213: -4967184645029557205
+    second: Apple Woods_154
+  - first:
+      213: 6563586010108775205
+    second: Apple Woods_155
+  - first:
+      213: -1061190108008967906
+    second: Apple Woods_156
+  - first:
+      213: 3337724760494118029
+    second: Apple Woods_157
+  - first:
+      213: 8731256771050367258
+    second: Apple Woods_158
+  - first:
+      213: 3833583348434609866
+    second: Apple Woods_159
+  - first:
+      213: -3738698246794247663
+    second: Apple Woods_160
+  - first:
+      213: 7545729534203612851
+    second: Apple Woods_161
+  - first:
+      213: 7378044177801977673
+    second: Apple Woods_162
+  - first:
+      213: 1477231830998650763
+    second: Apple Woods_163
+  - first:
+      213: -86316259785634593
+    second: Apple Woods_164
+  - first:
+      213: -7908889879092903615
+    second: Apple Woods_165
+  - first:
+      213: 5227125951131843506
+    second: Apple Woods_166
+  - first:
+      213: 8478701883150482920
+    second: Apple Woods_167
+  - first:
+      213: 5329617756570173358
+    second: Apple Woods_168
+  - first:
+      213: -6993466021786461490
+    second: Apple Woods_169
+  - first:
+      213: 7700139164004625295
+    second: Apple Woods_170
+  - first:
+      213: -7572409690979990808
+    second: Apple Woods_171
+  - first:
+      213: 4923345727552612620
+    second: Apple Woods_172
+  - first:
+      213: -5782777057362618448
+    second: Apple Woods_173
+  - first:
+      213: 5027572558183261586
+    second: Apple Woods_174
+  - first:
+      213: -1453282946517343393
+    second: Apple Woods_175
+  - first:
+      213: -807619502349244911
+    second: Apple Woods_176
+  - first:
+      213: -8119966812575826871
+    second: Apple Woods_177
+  - first:
+      213: 3083557873606597411
+    second: Apple Woods_178
+  - first:
+      213: 4914831609145446883
+    second: Apple Woods_179
+  - first:
+      213: -5609171718513362892
+    second: Apple Woods_180
+  - first:
+      213: 5007824395661037409
+    second: Apple Woods_181
+  - first:
+      213: -155890704283056797
+    second: Apple Woods_182
+  - first:
+      213: -6400791877006058926
+    second: Apple Woods_183
+  - first:
+      213: -5961664533694921378
+    second: Apple Woods_184
+  - first:
+      213: 7743999352802803658
+    second: Apple Woods_185
+  - first:
+      213: -2005810539211362788
+    second: Apple Woods_186
+  - first:
+      213: -1802077682447722357
+    second: Apple Woods_187
+  - first:
+      213: 8486563220411947116
+    second: Apple Woods_188
+  - first:
+      213: -329464882056151189
+    second: Apple Woods_189
+  - first:
+      213: -3101457119278508192
+    second: Apple Woods_190
+  - first:
+      213: -4543706856859981940
+    second: Apple Woods_191
+  - first:
+      213: 7830092960835378754
+    second: Apple Woods_192
+  - first:
+      213: -6563527029347120502
+    second: Apple Woods_193
+  - first:
+      213: -2160007799280242793
+    second: Apple Woods_194
+  - first:
+      213: 5377525569393688351
+    second: Apple Woods_195
+  - first:
+      213: 5767227911821678181
+    second: Apple Woods_196
+  - first:
+      213: 1260063721781520429
+    second: Apple Woods_197
+  - first:
+      213: -5695618233951294771
+    second: Apple Woods_198
+  - first:
+      213: 937751660549311733
+    second: Apple Woods_199
+  - first:
+      213: -8417511391905956442
+    second: Apple Woods_200
+  - first:
+      213: -4523329042557160007
+    second: Apple Woods_201
+  - first:
+      213: -2077502274791748240
+    second: Apple Woods_202
+  - first:
+      213: 944907129368178889
+    second: Apple Woods_203
+  - first:
+      213: -4402681418801944008
+    second: Apple Woods_204
+  - first:
+      213: -1076803310916400798
+    second: Apple Woods_205
+  - first:
+      213: 8006297194407946837
+    second: Apple Woods_206
+  - first:
+      213: 3000895113284091692
+    second: Apple Woods_207
+  - first:
+      213: -2146925148339194714
+    second: Apple Woods_208
+  - first:
+      213: 1213248916630055193
+    second: Apple Woods_209
+  - first:
+      213: -1576435860572975323
+    second: Apple Woods_210
+  - first:
+      213: 4744881056875831792
+    second: Apple Woods_211
+  - first:
+      213: 1421350492311479298
+    second: Apple Woods_212
+  - first:
+      213: -458858353813085269
+    second: Apple Woods_213
+  - first:
+      213: 7023865117068014090
+    second: Apple Woods_214
+  - first:
+      213: 7673300622645186336
+    second: Apple Woods_215
+  - first:
+      213: 4362124952990000786
+    second: Apple Woods_216
+  - first:
+      213: -4168285571229997446
+    second: Apple Woods_217
+  - first:
+      213: 9165615760272017716
+    second: Apple Woods_218
+  - first:
+      213: -795075541135075448
+    second: Apple Woods_219
+  - first:
+      213: -7971652149569437582
+    second: Apple Woods_220
+  - first:
+      213: 42657752371196952
+    second: Apple Woods_221
+  - first:
+      213: -6391738490231959828
+    second: Apple Woods_222
+  - first:
+      213: -2503279270279096886
+    second: Apple Woods_223
+  - first:
+      213: -6464317589128351043
+    second: Apple Woods_224
+  - first:
+      213: -2073807368806908979
+    second: Apple Woods_225
+  - first:
+      213: 8272972968424635100
+    second: Apple Woods_226
+  - first:
+      213: -911035613003054448
+    second: Apple Woods_227
+  - first:
+      213: 6031656696093827057
+    second: Apple Woods_228
+  - first:
+      213: 2437191167371520181
+    second: Apple Woods_229
+  - first:
+      213: 6301093814424001332
+    second: Apple Woods_230
+  - first:
+      213: -4593627883648623805
+    second: Apple Woods_231
+  - first:
+      213: 2641318210671792431
+    second: Apple Woods_232
+  - first:
+      213: -7153049896111351817
+    second: Apple Woods_233
+  - first:
+      213: 8516794480358273067
+    second: Apple Woods_234
+  - first:
+      213: 2052925270896328632
+    second: Apple Woods_235
+  - first:
+      213: -7250560792010256661
+    second: Apple Woods_236
+  - first:
+      213: -7685039880085715670
+    second: Apple Woods_237
+  - first:
+      213: -1680579150411372210
+    second: Apple Woods_238
+  - first:
+      213: -5185861006013904498
+    second: Apple Woods_239
+  - first:
+      213: 8860381071303982863
+    second: Apple Woods_240
+  - first:
+      213: 4883762042730609281
+    second: Apple Woods_241
+  - first:
+      213: 7917155789863720081
+    second: Apple Woods_242
+  - first:
+      213: 7783340955124997648
+    second: Apple Woods_243
+  - first:
+      213: -2400054023630108985
+    second: Apple Woods_244
+  - first:
+      213: -335117406297481687
+    second: Apple Woods_245
+  - first:
+      213: 2952030014199732283
+    second: Apple Woods_246
+  - first:
+      213: 5376163260037302000
+    second: Apple Woods_247
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Apple Woods_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 575
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ed01157ef6d43e0800000000000000
+      internalID: -2067873614605001203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 575
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2227a8bd27197780800000000000000
+      internalID: -8684884921268362708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 575
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb4d94475575610800000000000000
+      internalID: 1609849349751487484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc3943cfce3cb6e0800000000000000
+      internalID: -1820511087309013835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8598a02b95905700800000000000000
+      internalID: 527085649902736781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740fe28b4f43d2f50800000000000000
+      internalID: 6858196033221881927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec54b4613ecc4700800000000000000
+      internalID: 526021968033766637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f70275fc3cdf40800000000000000
+      internalID: 5754541448750430455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090479a4c16fe1790800000000000000
+      internalID: -7557332523310169968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ca2e91cdc4b3550800000000000000
+      internalID: 6141587025060604968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d1e2e39b586a510800000000000000
+      internalID: 1560081351589109011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba749a582dca19e0800000000000000
+      internalID: -1649780740275799375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50131709b282d90800000000000000
+      internalID: -7122394911312116260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f454861392a5640800000000000000
+      internalID: 5069409622738423610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8567b95837b9f3b30800000000000000
+      internalID: 4269301892235621976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_15
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa6a6b922bfa170800000000000000
+      internalID: 8191962139438001974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_16
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19cf7863a8b1d2a0800000000000000
+      internalID: -6714382557460313828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 550
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325f6d46f024ee00800000000000000
+      internalID: 1073018853454205501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed47f4e8d09c5550800000000000000
+      internalID: 6150950452310003169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 550
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8583b75469f9500800000000000000
+      internalID: 405207716650834087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec91e842a33314550800000000000000
+      internalID: 6143247691524479438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ea27a47dc2ab60800000000000000
+      internalID: 7755987409189922861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e24fe0cbd355c360800000000000000
+      internalID: 7189244583466713832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442e8ec90aef4bbf0800000000000000
+      internalID: -309342508600991164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6d2153db063bb0800000000000000
+      internalID: -4956761337646714975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d8ed4103735f1b0800000000000000
+      internalID: -5623527880054108782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeeb58f4d29921f0800000000000000
+      internalID: -1069161993126285572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486fed85ded1e8420800000000000000
+      internalID: 2634075737293780612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de83b42be663c0a0800000000000000
+      internalID: -6862528247063408940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4111fed97b9310800000000000000
+      internalID: 1412856906544926180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_30
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b7559c7d6cba9d0800000000000000
+      internalID: -2761895316363576471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4979443748e1b0800000000000000
+      internalID: -5627169444502876386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919401b5518c5ca0800000000000000
+      internalID: -6026799996286496353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab629d2a9b8aa420800000000000000
+      internalID: 2642077625712012197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb625f82b2aeb20800000000000000
+      internalID: 3164389143092837351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_35
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ace2cc33a3c6b0800000000000000
+      internalID: -5277194856984436514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_36
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929ed6158b3c19f60800000000000000
+      internalID: 8039422006240602409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_37
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dafdbb8df1c42190800000000000000
+      internalID: -7988046544333047084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_38
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b4d4c757818d1d0800000000000000
+      internalID: -3325881431937430674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_39
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be048fb4d51750b30800000000000000
+      internalID: 4252930068641759467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_40
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 550
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac789ceebc788c80800000000000000
+      internalID: -8320263152111944530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 533
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03648e4fe47eaa950800000000000000
+      internalID: 6461230941718726192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 533
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2976380b566898e0800000000000000
+      internalID: -1686485519284405974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 533
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26451bdb0797c6e20800000000000000
+      internalID: 3345182148355249250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d27d5dd9e7801d0800000000000000
+      internalID: -3384315903606313632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428ed8e22422c2f0800000000000000
+      internalID: -954160438694739381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af610bc183731a60800000000000000
+      internalID: 7643579993871708067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987cfbfd1cff5bb40800000000000000
+      internalID: 5455547731776882569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1a28665becab010800000000000000
+      internalID: 1205503128779268562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7ad3b2eff6f2c0800000000000000
+      internalID: -4398046636935579035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ea0c300632a5e40800000000000000
+      internalID: 5645863978149129775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a280040b5f29ad90800000000000000
+      internalID: -7086080470735093084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_52
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840244f4e8793e9e0800000000000000
+      internalID: -1593263205688008632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_53
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4c490207003700800000000000000
+      internalID: 517921662474930933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_54
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e496ecf2eca13dc90800000000000000
+      internalID: -7146338710839203506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_55
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e7689d998e6620800000000000000
+      internalID: 2769302130839248973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_56
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb5ab3b6f1bbdc0800000000000000
+      internalID: -3622266929866752554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_57
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 525
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dbc72efe2dca5c0800000000000000
+      internalID: -4202752424504672979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 500
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b421a64803436dca0800000000000000
+      internalID: -5992544871185247669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_59
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 508
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e23059297ec5f00800000000000000
+      internalID: 1107014225177554441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 500
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1bd9934b33e2d0800000000000000
+      internalID: -3250689344501244056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4a3b1439852afb0800000000000000
+      internalID: -4638047276752460554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff66b2b2a1c4ad0800000000000000
+      internalID: -2716767702497165426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bd42d235ccd95f0800000000000000
+      internalID: -748217305461892285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_64
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2170cf7d22d325b0800000000000000
+      internalID: -5394236835801042644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3956a943449a8d50800000000000000
+      internalID: 6740362809032726845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_66
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b31c3df037b230800000000000000
+      internalID: 3654443486827230628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_67
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f724a3b76c40860800000000000000
+      internalID: 7495333912412061476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_68
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650aadacc1cd424b0800000000000000
+      internalID: -5466002031500418986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_69
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf253d69167a8a0800000000000000
+      internalID: -6293954653808559236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_70
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb725de622fb3f00800000000000000
+      internalID: 1097737183199132593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_71
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2526c9a2d9628ca10800000000000000
+      internalID: 1929834896794870354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_72
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 500
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a1583d595e8dd40800000000000000
+      internalID: 5609485767551556203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 475
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bcfa1995e6b2770800000000000000
+      internalID: 8587078445487344511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 483
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357c25d1b03fd9c50800000000000000
+      internalID: 6673757451895097171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68bdd5736e5f5b0800000000000000
+      internalID: -5335105058078226747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_76
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72accfd228c84ca0800000000000000
+      internalID: -6032351648753606017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b026713141fd740800000000000000
+      internalID: 5178880168728595310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_78
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea3ab1d95b4d6240800000000000000
+      internalID: 4786564828107520743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_79
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d89e6f8e2f452b0800000000000000
+      internalID: -5596581354525848207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_80
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33047a3c4c502ddb0800000000000000
+      internalID: -4768742712777686989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_81
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2649b876d06736620800000000000000
+      internalID: 2766184396079469666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_82
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a39c8fb8cacb530800000000000000
+      internalID: 3872159496806152836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 458
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db89094f74d0d780800000000000000
+      internalID: -8660188440282166319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 458
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aebb77b66977180800000000000000
+      internalID: -9117653532273808775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afc074811c534a30800000000000000
+      internalID: 4198300507945619360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc3572ef6ed88df0800000000000000
+      internalID: -177647613159064388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_87
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8bc4b5695a07d70800000000000000
+      internalID: 9038906517328017612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_88
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b51ee7374dd830800000000000000
+      internalID: 4097509541520191731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_89
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282840355407161d0800000000000000
+      internalID: -3359280403993820542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_90
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf3297d2bb3c6080800000000000000
+      internalID: -9192907100063121489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_91
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac88bf464d55960800000000000000
+      internalID: 7590206277184703027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_92
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46e01c34b3f7d70800000000000000
+      internalID: 9043011738971038921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_93
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 425
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc78972438ffd0a0800000000000000
+      internalID: -6854487204948312908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d045ebd3d00a5ea20800000000000000
+      internalID: 3091052697990616077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287f9e75b30c758d0800000000000000
+      internalID: -2857604077432735870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_96
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03a873e0197c19a0800000000000000
+      internalID: -6260996268509060341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_97
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a563caa18e2b577a0800000000000000
+      internalID: -6379996587150789030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 408
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd996c3ccd9177720800000000000000
+      internalID: 2843770125675829723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_99
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117fe017371308e0800000000000000
+      internalID: -1728512306705370862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_100
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 408
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170013032b19ae990800000000000000
+      internalID: -7355906846857559951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_101
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f6292980e5420b0800000000000000
+      internalID: -5754371032960831633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_102
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf4c0ee4db775a60800000000000000
+      internalID: 7662729445451255775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_103
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91cbe7f42cb422c0800000000000000
+      internalID: -4457230864225680995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_104
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9703efecb16b5260800000000000000
+      internalID: 7087365902703986591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_105
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19d0b7a290f7dc0800000000000000
+      internalID: -3639179895834308102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f288e53f011d86d70800000000000000
+      internalID: 9036702523051640879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_107
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc81ae82d1023de0800000000000000
+      internalID: -1355018534037386057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_108
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f0954ba3e74dc0800000000000000
+      internalID: -3654702247841826317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_109
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d671024fb676fc0800000000000000
+      internalID: -3501711489002672766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_110
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc11574686f18480800000000000000
+      internalID: -8898560332124840778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_111
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880415316f598b470800000000000000
+      internalID: 8410637188232986760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_112
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91eff1fe5a49ddc0800000000000000
+      internalID: -3613775454340652641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_113
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d44084adfaa8b0800000000000000
+      internalID: -5140017141721540220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_114
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cef93165c7b6000800000000000000
+      internalID: 30254531646319661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_115
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdcb21c11346fd30800000000000000
+      internalID: 4464829824118803955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_116
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f22bd6bc53bb40800000000000000
+      internalID: 5454805514106106714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_117
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 375
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce8930985fd0630800000000000000
+      internalID: 3895039221565025497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_118
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 350
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080d77c2c54f2d430800000000000000
+      internalID: 3806373311801708672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_119
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46abaf518ab19ac90800000000000000
+      internalID: -7158159723991483804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_120
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972ce0517ffba0460800000000000000
+      internalID: 7208785221491016313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_121
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e222ddf871aec3a0800000000000000
+      internalID: -6643194859298348311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_122
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 350
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3fa21b82fcfb070800000000000000
+      internalID: 8124440026477687761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_123
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356195de544a80c0800000000000000
+      internalID: -4572767297540627137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_124
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 325
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94005046868b4a60800000000000000
+      internalID: 7659363502436385948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_125
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d793dcd9963abfa40800000000000000
+      internalID: 5403091851975407997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_126
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c1011050eedb0b0800000000000000
+      internalID: -5711147047175840703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_127
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12eaa1559e646220800000000000000
+      internalID: 2478227282559951387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_128
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158c0244ad8dffd0800000000000000
+      internalID: -2306531697521556203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_129
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab221939fe2b45f0800000000000000
+      internalID: -771471263224681567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_130
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6a8ca3e0032170800000000000000
+      internalID: 8152360728323058181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_131
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab104911b12cc610800000000000000
+      internalID: 1642725008599948205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_132
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ee907bc2b3e7080800000000000000
+      internalID: -9187841126553752044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_133
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f54529b2fddbdd0800000000000000
+      internalID: -2468571642497573017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_134
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 300
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d9b9645798e9340800000000000000
+      internalID: 4872482983650237786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_135
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 300
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630816c18a856770800000000000000
+      internalID: 8603434953140077409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_136
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 300
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc022ee77eb142b20800000000000000
+      internalID: 3108640323872628941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_137
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 300
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a92f7be9f41b90800000000000000
+      internalID: -7271912708450442481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_138
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670d0e4c2d37be80800000000000000
+      internalID: -8162988539088402579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_139
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b8044ba40b86a80800000000000000
+      internalID: -8473328863999390824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_140
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c5358f1921b160800000000000000
+      internalID: 7039452907912415731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_141
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4c73e7e1475770800000000000000
+      internalID: 8599414477697076585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_142
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d1d3d8b1cbd9680800000000000000
+      internalID: -8746628074763903619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_143
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09e4850db67e1f80800000000000000
+      internalID: -8133933322771044086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_144
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40019dddb4d0d6b10800000000000000
+      internalID: 1976250430981214212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_145
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34cde1aeaef44bc0800000000000000
+      internalID: -3799632159599377349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_146
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8141f3fe10372c80800000000000000
+      internalID: -8347650474808098419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_147
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b14715a89199b80800000000000000
+      internalID: -8387644749138093171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_148
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d904424f181df0d0800000000000000
+      internalID: -3387524822177936941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_149
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b0f67208684990800000000000000
+      internalID: -7401551627788700745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_150
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950153990e4e86fb0800000000000000
+      internalID: -4654218561593208743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_151
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243439953a80cab90800000000000000
+      internalID: -7229393804160974014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_152
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5421caa4e54319e90800000000000000
+      internalID: -7020772764509531579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_153
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e29b6e5470961790800000000000000
+      internalID: -7559696095020084507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_154
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c0d33f1e3011bb0800000000000000
+      internalID: -4967184645029557205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_155
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc14963ba861b50800000000000000
+      internalID: 6563586010108775205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_156
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1197fc1835e541f0800000000000000
+      internalID: -1061190108008967906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_157
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8417435cfaf15e20800000000000000
+      internalID: 3337724760494118029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196e29e5c7ab2970800000000000000
+      internalID: 8731256771050367258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_159
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62c448ebf933530800000000000000
+      internalID: 3833583348434609866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_160
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1120475c0c97d1cc0800000000000000
+      internalID: -3738698246794247663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_161
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be41694801d7b860800000000000000
+      internalID: 7545729534203612851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_162
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9603d614146660800000000000000
+      internalID: 7378044177801977673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_163
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0399068e208410800000000000000
+      internalID: 1477231830998650763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_164
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc032da1d75dcef0800000000000000
+      internalID: -86316259785634593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_165
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414cfcde8afd3290800000000000000
+      internalID: -7908889879092903615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_166
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7079ab5b7a8840800000000000000
+      internalID: 5227125951131843506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_167
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edbe9dc0766aa570800000000000000
+      internalID: 8478701883150482920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafbaf0bc1b96f940800000000000000
+      internalID: 5329617756570173358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_169
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca57a6c4b732fe90800000000000000
+      internalID: -6993466021786461490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_170
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ba197c5c36cda60800000000000000
+      internalID: 7700139164004625295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_171
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e28963a18569e690800000000000000
+      internalID: -7572409690979990808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_172
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e53daadc335440800000000000000
+      internalID: 4923345727552612620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_173
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b75f90a7e27fbfa0800000000000000
+      internalID: -5782777057362618448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_174
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295e30dba9685c540800000000000000
+      internalID: 5027572558183261586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_175
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5363b62cd6e4dbe0800000000000000
+      internalID: -1453282946517343393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_176
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116abc07752cac4f0800000000000000
+      internalID: -807619502349244911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_177
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf4749435105f80800000000000000
+      internalID: -8119966812575826871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_178
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 150
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b1ea47c8ffaca20800000000000000
+      internalID: 3083557873606597411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_179
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 150
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d9f10f4df43440800000000000000
+      internalID: 4914831609145446883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_180
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438f7d96a083822b0800000000000000
+      internalID: -5609171718513362892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_181
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f49e851cd5f7540800000000000000
+      internalID: 5007824395661037409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_182
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3654c6bfa3a26ddf0800000000000000
+      internalID: -155890704283056797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_183
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a19d163b1db27a0800000000000000
+      internalID: -6400791877006058926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_184
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55c11f51b9e34da0800000000000000
+      internalID: -5961664533694921378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_185
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf7aa4c166387b60800000000000000
+      internalID: 7743999352802803658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_186
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e629b11fde924e0800000000000000
+      internalID: -2005810539211362788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_187
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885b0845ebbdf6e0800000000000000
+      internalID: -1802077682447722357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_188
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 125
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c689c84094456c570800000000000000
+      internalID: 8486563220411947116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_189
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 125
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fb3137f618d6bf0800000000000000
+      internalID: -329464882056151189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_190
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675c47ae2965f4d0800000000000000
+      internalID: -3101457119278508192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_191
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87aa51ffa281f0c0800000000000000
+      internalID: -4543706856859981940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_192
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e11e0ff041aac60800000000000000
+      internalID: 7830092960835378754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_193
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a071e11faa9e4a0800000000000000
+      internalID: -6563527029347120502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_194
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fe3dbc95c1602e0800000000000000
+      internalID: -2160007799280242793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_195
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f7a46930fc0aa40800000000000000
+      internalID: 5377525569393688351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_196
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56659deca3f490050800000000000000
+      internalID: 5767227911821678181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_197
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e4236745ac7110800000000000000
+      internalID: 1260063721781520429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6815946915f0b0800000000000000
+      internalID: -5695618233951294771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_199
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 100
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0396ba20930d00800000000000000
+      internalID: 937751660549311733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_200
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad34a8acfdfe2b80800000000000000
+      internalID: -8417511391905956442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_201
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b53c209338e931c0800000000000000
+      internalID: -4523329042557160007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_202
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc8fa20ba3b23e0800000000000000
+      internalID: -2077502274791748240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_203
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c079bf170cfc1d00800000000000000
+      internalID: 944907129368178889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_204
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae815739886e2c0800000000000000
+      internalID: -4402681418801944008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_205
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2690dd7081d6e01f0800000000000000
+      internalID: -1076803310916400798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_206
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a64ee01e41c1f60800000000000000
+      internalID: 8006297194407946837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_207
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ff083c43255a920800000000000000
+      internalID: 3000895113284091692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b3e5d3f69432e0800000000000000
+      internalID: -2146925148339194714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_209
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919acdb267356d010800000000000000
+      internalID: 1213248916630055193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_210
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4c57efef5f1ae0800000000000000
+      internalID: -1576435860572975323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_211
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f160988e2439d140800000000000000
+      internalID: 4744881056875831792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_212
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2046d8bfdb6a9b310800000000000000
+      internalID: 1421350492311479298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_213
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba320c222cec1a9f0800000000000000
+      internalID: -458858353813085269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_214
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02b8152c18c97160800000000000000
+      internalID: 7023865117068014090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_215
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fcc8be24a0d7a60800000000000000
+      internalID: 7673300622645186336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_216
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29626d08881698c30800000000000000
+      internalID: 4362124952990000786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_217
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7623748b564726c0800000000000000
+      internalID: -4168285571229997446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_218
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4394cb2f8fec23f70800000000000000
+      internalID: 9165615760272017716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_219
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887da01020357f4f0800000000000000
+      internalID: -795075541135075448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_220
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2704fe70b900f5190800000000000000
+      internalID: -7971652149569437582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_221
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147001fffc879000800000000000000
+      internalID: 42657752371196952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_222
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee488045bbfb47a0800000000000000
+      internalID: -6391738490231959828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_223
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac55a6144c0924dd0800000000000000
+      internalID: -2503279270279096886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_224
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2f1b0f6612a46a0800000000000000
+      internalID: -6464317589128351043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_225
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb3da18f2b5833e0800000000000000
+      internalID: -2073807368806908979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_226
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafb5b25118fc270800000000000000
+      internalID: 8272972968424635100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_227
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920935dfe95b53f0800000000000000
+      internalID: -911035613003054448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_228
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff57c9decfb4b350800000000000000
+      internalID: 6031656696093827057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_229
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b826e43474a2d120800000000000000
+      internalID: 2437191167371520181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_230
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b5729807bf17750800000000000000
+      internalID: 6301093814424001332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_231
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5bc427c72040c0800000000000000
+      internalID: -4593627883648623805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_232
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21dcd51be8d7a420800000000000000
+      internalID: 2641318210671792431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_233
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f753a994034bbc90800000000000000
+      internalID: -7153049896111351817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_234
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2033cab47bb13670800000000000000
+      internalID: 8516794480358273067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_235
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfb23238a47d7c10800000000000000
+      internalID: 2052925270896328632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_236
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8ad1ff55d06b90800000000000000
+      internalID: -7250560792010256661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_237
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25c7c632f0495590800000000000000
+      internalID: -7685039880085715670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_238
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e496dc2ba226da8e0800000000000000
+      internalID: -1680579150411372210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_239
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89cdf114ee1808b0800000000000000
+      internalID: -5185861006013904498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_240
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f3ba9d3a566fa70800000000000000
+      internalID: 8860381071303982863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_241
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7e7cd3bb96c340800000000000000
+      internalID: 4883762042730609281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_242
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19411467e336fdd60800000000000000
+      internalID: 7917155789863720081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_243
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e99fb5c5bf30c60800000000000000
+      internalID: 7783340955124997648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_244
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c7cfd49b41bed0800000000000000
+      internalID: -2400054023630108985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_245
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e96979e7c695bf0800000000000000
+      internalID: -335117406297481687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_246
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b389aaa48a7b7f820800000000000000
+      internalID: 2952030014199732283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple Woods_247
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f687093008fb9a40800000000000000
+      internalID: 5376163260037302000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
